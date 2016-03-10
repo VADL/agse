@@ -8,24 +8,24 @@
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
-<layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
-<layer number="3" name="Route3" color="4" fill="3" visible="no" active="no"/>
-<layer number="14" name="Route14" color="1" fill="6" visible="no" active="no"/>
-<layer number="15" name="Route15" color="4" fill="6" visible="no" active="no"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="no"/>
-<layer number="17" name="Pads" color="2" fill="1" visible="no" active="no"/>
-<layer number="18" name="Vias" color="2" fill="1" visible="no" active="no"/>
-<layer number="19" name="Unrouted" color="6" fill="1" visible="no" active="no"/>
-<layer number="20" name="Dimension" color="15" fill="1" visible="no" active="no"/>
-<layer number="21" name="tPlace" color="7" fill="1" visible="no" active="no"/>
-<layer number="22" name="bPlace" color="7" fill="1" visible="no" active="no"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="no"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="no"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="no" active="no"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="no" active="no"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="no" active="no"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="no" active="no"/>
+<layer number="1" name="Top" color="4" fill="1" visible="yes" active="no"/>
+<layer number="2" name="Route2" color="1" fill="3" visible="yes" active="no"/>
+<layer number="3" name="Route3" color="4" fill="3" visible="yes" active="no"/>
+<layer number="14" name="Route14" color="1" fill="6" visible="yes" active="no"/>
+<layer number="15" name="Route15" color="4" fill="6" visible="yes" active="no"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="no"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="no"/>
+<layer number="18" name="Vias" color="2" fill="1" visible="yes" active="no"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="no"/>
+<layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="no"/>
+<layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="no"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="no"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="no"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="no"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="no"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="no"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="no"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="no"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="no"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="no"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="no"/>
@@ -34,8 +34,8 @@
 <layer number="34" name="bFinish" color="6" fill="6" visible="no" active="no"/>
 <layer number="35" name="tGlue" color="7" fill="4" visible="no" active="no"/>
 <layer number="36" name="bGlue" color="7" fill="5" visible="no" active="no"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="no" active="no"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="no" active="no"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="no"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="no"/>
 <layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="no"/>
 <layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="no"/>
 <layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="no"/>
@@ -43,17 +43,19 @@
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="no"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="no"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="no"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="no" active="no"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="no" active="no"/>
-<layer number="48" name="Document" color="7" fill="1" visible="no" active="no"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="no" active="no"/>
-<layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
-<layer number="51" name="tDocu" color="7" fill="1" visible="no" active="no"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="no"/>
-<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
-<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
-<layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
-<layer number="57" name="tCAD" color="7" fill="1" visible="no" active="no"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="no"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="no"/>
+<layer number="48" name="Document" color="7" fill="1" visible="yes" active="no"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="no"/>
+<layer number="50" name="dxf" color="7" fill="1" visible="yes" active="no"/>
+<layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="no"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="no"/>
+<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="yes" active="no"/>
+<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="yes" active="no"/>
+<layer number="56" name="wert" color="7" fill="1" visible="yes" active="no"/>
+<layer number="57" name="tCAD" color="7" fill="1" visible="yes" active="no"/>
+<layer number="59" name="tCarbon" color="7" fill="1" visible="yes" active="no"/>
+<layer number="60" name="bCarbon" color="7" fill="1" visible="yes" active="no"/>
 <layer number="90" name="Modules" color="5" fill="1" visible="yes" active="yes"/>
 <layer number="91" name="Nets" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="92" name="Busses" color="1" fill="1" visible="yes" active="yes"/>
@@ -79,6 +81,7 @@
 <layer number="112" name="tSilk" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="113" name="IDFDebug" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="116" name="Patch_BOT" color="9" fill="4" visible="yes" active="yes"/>
+<layer number="118" name="Rect_Pads" color="7" fill="1" visible="no" active="no"/>
 <layer number="121" name="_tsilk" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="122" name="_bsilk" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="123" name="tTestmark" color="7" fill="1" visible="no" active="yes"/>
@@ -87,6 +90,7 @@
 <layer number="126" name="_bNames" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="127" name="_tValues" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="128" name="_bValues" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="129" name="Mask" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="131" name="tAdjust" color="7" fill="1" visible="no" active="yes"/>
 <layer number="132" name="bAdjust" color="7" fill="1" visible="no" active="yes"/>
 <layer number="144" name="Drill_legend" color="7" fill="1" visible="yes" active="yes"/>
@@ -129,6 +133,8 @@
 <layer number="229" name="229bmp" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="230" name="230bmp" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="231" name="231bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="232" name="Eagle3D_PG2" color="7" fill="1" visible="no" active="no"/>
+<layer number="233" name="Eagle3D_PG3" color="7" fill="1" visible="no" active="no"/>
 <layer number="248" name="Housing" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="249" name="Edge" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="250" name="Descript" color="7" fill="1" visible="no" active="no"/>
@@ -141,11 +147,11 @@
 <library name="adafruit">
 <packages>
 <package name="BEAGLEBONE_SHIELD">
-<wire x1="54.61" y1="73.66" x2="54.61" y2="14.605" width="0.127" layer="20"/>
+<wire x1="54.61" y1="73.66" x2="54.61" y2="14.605" width="0.127" layer="51" style="longdash"/>
 <wire x1="54.61" y1="14.605" x2="54.61" y2="6.35" width="0.127" layer="51" style="shortdash"/>
-<wire x1="12.7" y1="86.36" x2="0" y2="73.66" width="0.127" layer="20" curve="90"/>
-<wire x1="54.61" y1="73.66" x2="41.91" y2="86.36" width="0.127" layer="20" curve="90"/>
-<wire x1="12.7" y1="86.36" x2="41.91" y2="86.36" width="0.127" layer="20"/>
+<wire x1="12.7" y1="86.36" x2="0" y2="73.66" width="0.127" layer="51" style="longdash" curve="90"/>
+<wire x1="54.61" y1="73.66" x2="41.91" y2="86.36" width="0.127" layer="51" style="longdash" curve="90"/>
+<wire x1="12.7" y1="86.36" x2="41.91" y2="86.36" width="0.127" layer="51" style="longdash"/>
 <wire x1="5.08" y1="17.78" x2="5.715" y2="18.415" width="0.1524" layer="21"/>
 <wire x1="5.715" y1="18.415" x2="5.715" y2="19.685" width="0.1524" layer="21"/>
 <wire x1="5.715" y1="19.685" x2="5.08" y2="20.32" width="0.1524" layer="21"/>
@@ -471,15 +477,15 @@
 <wire x1="53.975" y1="74.295" x2="53.34" y2="73.66" width="0.1524" layer="21"/>
 <wire x1="49.53" y1="76.2" x2="53.34" y2="76.2" width="0.1524" layer="21"/>
 <wire x1="0" y1="6.35" x2="6.35" y2="0" width="0.127" layer="51" style="shortdash" curve="90"/>
-<wire x1="0" y1="73.66" x2="0" y2="14.605" width="0.127" layer="20"/>
+<wire x1="0" y1="73.66" x2="0" y2="14.605" width="0.127" layer="51" style="longdash"/>
 <wire x1="48.26" y1="0" x2="54.61" y2="6.35" width="0.127" layer="51" style="shortdash" curve="90"/>
 <wire x1="6.35" y1="0" x2="48.26" y2="0" width="0.127" layer="51" style="shortdash"/>
 <wire x1="0" y1="14.605" x2="0" y2="6.35" width="0.127" layer="51" style="shortdash"/>
-<wire x1="0" y1="14.605" x2="12.7" y2="14.605" width="0.127" layer="20"/>
-<wire x1="41.91" y1="14.605" x2="54.61" y2="14.605" width="0.127" layer="20"/>
-<wire x1="18.415" y1="20.32" x2="36.195" y2="20.32" width="0.127" layer="20"/>
-<wire x1="18.415" y1="20.32" x2="12.7" y2="14.605" width="0.127" layer="20" curve="90"/>
-<wire x1="36.195" y1="20.32" x2="41.91" y2="14.605" width="0.127" layer="20" curve="-90"/>
+<wire x1="0" y1="14.605" x2="12.7" y2="14.605" width="0.127" layer="51" style="longdash"/>
+<wire x1="41.91" y1="14.605" x2="54.61" y2="14.605" width="0.127" layer="51" style="longdash"/>
+<wire x1="18.415" y1="20.32" x2="36.195" y2="20.32" width="0.127" layer="51" style="longdash"/>
+<wire x1="18.415" y1="20.32" x2="12.7" y2="14.605" width="0.127" layer="51" style="longdash" curve="90"/>
+<wire x1="36.195" y1="20.32" x2="41.91" y2="14.605" width="0.127" layer="51" style="longdash" curve="-90"/>
 <pad name="1" x="4.445" y="19.05" drill="1" shape="square" rot="R90"/>
 <pad name="2" x="1.905" y="19.05" drill="1" rot="R90"/>
 <pad name="3" x="4.445" y="21.59" drill="1" rot="R90"/>
@@ -791,6 +797,105 @@
 </gates>
 <devices>
 <device name="" package="BEAGLEBONE_SHIELD">
+<connects>
+<connect gate="G$1" pin="AIN0" pad="85"/>
+<connect gate="G$1" pin="AIN1" pad="86"/>
+<connect gate="G$1" pin="AIN2" pad="83"/>
+<connect gate="G$1" pin="AIN3" pad="84"/>
+<connect gate="G$1" pin="AIN4" pad="79"/>
+<connect gate="G$1" pin="AIN5" pad="82"/>
+<connect gate="G$1" pin="AIN6" pad="81"/>
+<connect gate="G$1" pin="CLKOUT2" pad="87"/>
+<connect gate="G$1" pin="EHRPWM1A" pad="60"/>
+<connect gate="G$1" pin="EHRPWM1B" pad="62"/>
+<connect gate="G$1" pin="EHRPWM2A" pad="19"/>
+<connect gate="G$1" pin="EHRPWM2B" pad="13"/>
+<connect gate="G$1" pin="GND@1" pad="47"/>
+<connect gate="G$1" pin="GND@2" pad="48"/>
+<connect gate="G$1" pin="GND@3" pad="89"/>
+<connect gate="G$1" pin="GND@4" pad="91"/>
+<connect gate="G$1" pin="GND@5" pad="90"/>
+<connect gate="G$1" pin="GND@6" pad="92"/>
+<connect gate="G$1" pin="GND@7" pad="1"/>
+<connect gate="G$1" pin="GND@8" pad="2"/>
+<connect gate="G$1" pin="GNDA_ADC" pad="80"/>
+<connect gate="G$1" pin="GPIO0_26" pad="14"/>
+<connect gate="G$1" pin="GPIO0_27" pad="17"/>
+<connect gate="G$1" pin="GPIO0_7" pad="88"/>
+<connect gate="G$1" pin="GPIO1_0" pad="25"/>
+<connect gate="G$1" pin="GPIO1_1" pad="24"/>
+<connect gate="G$1" pin="GPIO1_12" pad="12"/>
+<connect gate="G$1" pin="GPIO1_13" pad="11"/>
+<connect gate="G$1" pin="GPIO1_14" pad="16"/>
+<connect gate="G$1" pin="GPIO1_15" pad="15"/>
+<connect gate="G$1" pin="GPIO1_16" pad="61"/>
+<connect gate="G$1" pin="GPIO1_17" pad="69"/>
+<connect gate="G$1" pin="GPIO1_2" pad="5"/>
+<connect gate="G$1" pin="GPIO1_28" pad="58"/>
+<connect gate="G$1" pin="GPIO1_29" pad="26"/>
+<connect gate="G$1" pin="GPIO1_3" pad="6"/>
+<connect gate="G$1" pin="GPIO1_30" pad="21"/>
+<connect gate="G$1" pin="GPIO1_31" pad="20"/>
+<connect gate="G$1" pin="GPIO1_4" pad="23"/>
+<connect gate="G$1" pin="GPIO1_5" pad="22"/>
+<connect gate="G$1" pin="GPIO1_6" pad="3"/>
+<connect gate="G$1" pin="GPIO1_7" pad="4"/>
+<connect gate="G$1" pin="GPIO2_1" pad="18"/>
+<connect gate="G$1" pin="GPIO2_10" pad="41"/>
+<connect gate="G$1" pin="GPIO2_11" pad="42"/>
+<connect gate="G$1" pin="GPIO2_12" pad="39"/>
+<connect gate="G$1" pin="GPIO2_13" pad="40"/>
+<connect gate="G$1" pin="GPIO2_22" pad="27"/>
+<connect gate="G$1" pin="GPIO2_23" pad="29"/>
+<connect gate="G$1" pin="GPIO2_24" pad="28"/>
+<connect gate="G$1" pin="GPIO2_25" pad="30"/>
+<connect gate="G$1" pin="GPIO2_6" pad="45"/>
+<connect gate="G$1" pin="GPIO2_7" pad="46"/>
+<connect gate="G$1" pin="GPIO2_8" pad="43"/>
+<connect gate="G$1" pin="GPIO2_9" pad="44"/>
+<connect gate="G$1" pin="GPIO3_19" pad="73"/>
+<connect gate="G$1" pin="GPIO3_21" pad="71"/>
+<connect gate="G$1" pin="I2C1_SCL" pad="63"/>
+<connect gate="G$1" pin="I2C1_SDA" pad="64"/>
+<connect gate="G$1" pin="I2C2_SCL" pad="65"/>
+<connect gate="G$1" pin="I2C2_SDA" pad="66"/>
+<connect gate="G$1" pin="PWR_BUT" pad="55"/>
+<connect gate="G$1" pin="SPI1_CS0" pad="74"/>
+<connect gate="G$1" pin="SPI1_DI" pad="76"/>
+<connect gate="G$1" pin="SPI1_DO" pad="75"/>
+<connect gate="G$1" pin="SPI1_SCLK" pad="77"/>
+<connect gate="G$1" pin="SYS_5V@1" pad="53"/>
+<connect gate="G$1" pin="SYS_5V@2" pad="54"/>
+<connect gate="G$1" pin="SYS_RESETN" pad="56"/>
+<connect gate="G$1" pin="TIMER4" pad="7"/>
+<connect gate="G$1" pin="TIMER5" pad="9"/>
+<connect gate="G$1" pin="TIMER6" pad="10"/>
+<connect gate="G$1" pin="TIMER7" pad="8"/>
+<connect gate="G$1" pin="UART1_RXD" pad="72"/>
+<connect gate="G$1" pin="UART1_TXD" pad="70"/>
+<connect gate="G$1" pin="UART2_RXD" pad="68"/>
+<connect gate="G$1" pin="UART2_TXD" pad="67"/>
+<connect gate="G$1" pin="UART3_CTSN" pad="36"/>
+<connect gate="G$1" pin="UART3_RTSN" pad="34"/>
+<connect gate="G$1" pin="UART4_CTSN" pad="35"/>
+<connect gate="G$1" pin="UART4_RTSN" pad="33"/>
+<connect gate="G$1" pin="UART4_RXD" pad="57"/>
+<connect gate="G$1" pin="UART4_TXD" pad="59"/>
+<connect gate="G$1" pin="UART5_CTSN" pad="31"/>
+<connect gate="G$1" pin="UART5_RTSN" pad="32"/>
+<connect gate="G$1" pin="UART5_RXD" pad="38"/>
+<connect gate="G$1" pin="UART5_TXD" pad="37"/>
+<connect gate="G$1" pin="VDD_3V3EXP@1" pad="49"/>
+<connect gate="G$1" pin="VDD_3V3EXP@2" pad="50"/>
+<connect gate="G$1" pin="VDD_5V@1" pad="51"/>
+<connect gate="G$1" pin="VDD_5V@2" pad="52"/>
+<connect gate="G$1" pin="VDD_ADC" pad="78"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="NO_DIM" package="BEAGLEBONE_SHIELD">
 <connects>
 <connect gate="G$1" pin="AIN0" pad="85"/>
 <connect gate="G$1" pin="AIN1" pad="86"/>
@@ -9838,7 +9943,7 @@ Standard schematic elements and footprints for 5mm, 3mm, 1206, and 0603 sized LE
 </class>
 </classes>
 <parts>
-<part name="U$1" library="adafruit" deviceset="BEAGLEBONE_OUTLINE" device=""/>
+<part name="U$1" library="adafruit" deviceset="BEAGLEBONE_OUTLINE" device="NO_DIM" value="BEAGLEBONE_OUTLINENO_DIM"/>
 <part name="U1" library="SparkFun-PowerIC" deviceset="V_REG_LD1085" device="D2">
 <attribute name="MANEX" value="140-0004281"/>
 </part>
