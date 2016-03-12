@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.5.0">
+<eagle version="7.2.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -9659,10 +9659,10 @@ Standard schematic elements and footprints for 5mm, 3mm, 1206, and 0603 sized LE
 <part name="SUPPLY3" library="SparkFun-Aesthetics" deviceset="5V" device=""/>
 <part name="P+2" library="supply1" deviceset="+5V" device="" value="+12V"/>
 <part name="GND9" library="supply1" deviceset="GND" device=""/>
-<part name="Q5" library="SparkFun-DiscreteSemi" deviceset="MOSFET-PCHANNEL" device="FQP27P06" value="PFET-FQP27P06"/>
-<part name="Q6" library="SparkFun-DiscreteSemi" deviceset="MOSFET-PCHANNEL" device="FQP27P06" value="PFET-FQP27P06"/>
-<part name="Q8" library="SparkFun-DiscreteSemi" deviceset="MOSFET-NCHANNEL" device="FQP30N06L" value="NFET-FQP30N06L"/>
-<part name="Q7" library="SparkFun-DiscreteSemi" deviceset="MOSFET-NCHANNEL" device="FQP30N06L" value="NFET-FQP30N06L"/>
+<part name="PFET03" library="SparkFun-DiscreteSemi" deviceset="MOSFET-PCHANNEL" device="FQP27P06" value="PFET-FQP27P06"/>
+<part name="PFET04" library="SparkFun-DiscreteSemi" deviceset="MOSFET-PCHANNEL" device="FQP27P06" value="PFET-FQP27P06"/>
+<part name="NFET04" library="SparkFun-DiscreteSemi" deviceset="MOSFET-NCHANNEL" device="FQP30N06L" value="NFET-FQP30N06L"/>
+<part name="NFET03" library="SparkFun-DiscreteSemi" deviceset="MOSFET-NCHANNEL" device="FQP30N06L" value="NFET-FQP30N06L"/>
 <part name="R4" library="resistor" deviceset="R-EU_" device="M0805" value="10K"/>
 <part name="R5" library="resistor" deviceset="R-EU_" device="M0805" value="10K"/>
 <part name="T1" library="transistor" deviceset="*-NPN-" device="SOT23-BEC" technology="BF820"/>
@@ -9671,10 +9671,10 @@ Standard schematic elements and footprints for 5mm, 3mm, 1206, and 0603 sized LE
 <part name="R7" library="resistor" deviceset="R-EU_" device="M0805" value="10K"/>
 <part name="P+1" library="supply1" deviceset="+5V" device="" value="+12V"/>
 <part name="GND10" library="supply1" deviceset="GND" device=""/>
-<part name="Q1" library="SparkFun-DiscreteSemi" deviceset="MOSFET-PCHANNEL" device="FQP27P06" value="PFET-FQP27P06"/>
-<part name="Q2" library="SparkFun-DiscreteSemi" deviceset="MOSFET-PCHANNEL" device="FQP27P06" value="PFET-FQP27P06"/>
-<part name="Q4" library="SparkFun-DiscreteSemi" deviceset="MOSFET-NCHANNEL" device="FQP30N06L" value="NFET-FQP30N06L"/>
-<part name="Q3" library="SparkFun-DiscreteSemi" deviceset="MOSFET-NCHANNEL" device="FQP30N06L" value="NFET-FQP30N06L"/>
+<part name="PFET01" library="SparkFun-DiscreteSemi" deviceset="MOSFET-PCHANNEL" device="FQP27P06" value="PFET-FQP27P06"/>
+<part name="PFET02" library="SparkFun-DiscreteSemi" deviceset="MOSFET-PCHANNEL" device="FQP27P06" value="PFET-FQP27P06"/>
+<part name="NFET02" library="SparkFun-DiscreteSemi" deviceset="MOSFET-NCHANNEL" device="FQP30N06L" value="NFET-FQP30N06L"/>
+<part name="NFET01" library="SparkFun-DiscreteSemi" deviceset="MOSFET-NCHANNEL" device="FQP30N06L" value="NFET-FQP30N06L"/>
 <part name="R8" library="resistor" deviceset="R-EU_" device="M0805" value="10K"/>
 <part name="R9" library="resistor" deviceset="R-EU_" device="M0805" value="10K"/>
 <part name="T3" library="transistor" deviceset="*-NPN-" device="SOT23-BEC" technology="BF820"/>
@@ -9795,10 +9795,10 @@ connections for motor feedback and control.</text>
 <attribute name="VALUE" x="194.945" y="7.62" size="1.778" layer="96" rot="R180"/>
 </instance>
 <instance part="GND9" gate="1" x="193.04" y="-63.5"/>
-<instance part="Q5" gate="G$1" x="177.8" y="-10.16" rot="MR180"/>
-<instance part="Q6" gate="G$1" x="210.82" y="-15.24" rot="R180"/>
-<instance part="Q8" gate="G$1" x="210.82" y="-45.72" rot="MR0"/>
-<instance part="Q7" gate="G$1" x="177.8" y="-40.64"/>
+<instance part="PFET03" gate="G$1" x="177.8" y="-10.16" rot="MR180"/>
+<instance part="PFET04" gate="G$1" x="210.82" y="-15.24" rot="R180"/>
+<instance part="NFET04" gate="G$1" x="210.82" y="-45.72" rot="MR0"/>
+<instance part="NFET03" gate="G$1" x="177.8" y="-40.64"/>
 <instance part="R4" gate="G$1" x="165.1" y="-2.54" rot="R90"/>
 <instance part="R5" gate="G$1" x="223.52" y="-2.54" rot="R90"/>
 <instance part="T1" gate="G$1" x="162.56" y="-53.34"/>
@@ -9809,10 +9809,10 @@ connections for motor feedback and control.</text>
 <attribute name="VALUE" x="194.945" y="88.9" size="1.778" layer="96" rot="R180"/>
 </instance>
 <instance part="GND10" gate="1" x="193.04" y="17.78"/>
-<instance part="Q1" gate="G$1" x="177.8" y="71.12" rot="MR180"/>
-<instance part="Q2" gate="G$1" x="210.82" y="66.04" rot="R180"/>
-<instance part="Q4" gate="G$1" x="210.82" y="35.56" rot="MR0"/>
-<instance part="Q3" gate="G$1" x="177.8" y="40.64"/>
+<instance part="PFET01" gate="G$1" x="177.8" y="71.12" rot="MR180"/>
+<instance part="PFET02" gate="G$1" x="210.82" y="66.04" rot="R180"/>
+<instance part="NFET02" gate="G$1" x="210.82" y="35.56" rot="MR0"/>
+<instance part="NFET01" gate="G$1" x="177.8" y="40.64"/>
 <instance part="R8" gate="G$1" x="165.1" y="78.74" rot="R90"/>
 <instance part="R9" gate="G$1" x="223.52" y="78.74" rot="R90"/>
 <instance part="T3" gate="G$1" x="162.56" y="27.94"/>
@@ -9918,7 +9918,7 @@ connections for motor feedback and control.</text>
 <junction x="347.98" y="137.16"/>
 </segment>
 <segment>
-<pinref part="Q7" gate="G$1" pin="S"/>
+<pinref part="NFET03" gate="G$1" pin="S"/>
 <pinref part="GND9" gate="1" pin="GND"/>
 <wire x1="177.8" y1="-45.72" x2="177.8" y2="-60.96" width="0.1524" layer="91"/>
 <wire x1="177.8" y1="-60.96" x2="193.04" y2="-60.96" width="0.1524" layer="91"/>
@@ -9931,12 +9931,12 @@ connections for motor feedback and control.</text>
 <wire x1="223.52" y1="-58.42" x2="223.52" y2="-60.96" width="0.1524" layer="91"/>
 <junction x="193.04" y="-60.96"/>
 <junction x="177.8" y="-60.96"/>
-<pinref part="Q8" gate="G$1" pin="S"/>
+<pinref part="NFET04" gate="G$1" pin="S"/>
 <wire x1="210.82" y1="-50.8" x2="210.82" y2="-60.96" width="0.1524" layer="91"/>
 <junction x="210.82" y="-60.96"/>
 </segment>
 <segment>
-<pinref part="Q3" gate="G$1" pin="S"/>
+<pinref part="NFET01" gate="G$1" pin="S"/>
 <pinref part="GND10" gate="1" pin="GND"/>
 <wire x1="177.8" y1="35.56" x2="177.8" y2="20.32" width="0.1524" layer="91"/>
 <wire x1="177.8" y1="20.32" x2="193.04" y2="20.32" width="0.1524" layer="91"/>
@@ -9949,7 +9949,7 @@ connections for motor feedback and control.</text>
 <wire x1="223.52" y1="22.86" x2="223.52" y2="20.32" width="0.1524" layer="91"/>
 <junction x="193.04" y="20.32"/>
 <junction x="177.8" y="20.32"/>
-<pinref part="Q4" gate="G$1" pin="S"/>
+<pinref part="NFET02" gate="G$1" pin="S"/>
 <wire x1="210.82" y1="30.48" x2="210.82" y2="20.32" width="0.1524" layer="91"/>
 <junction x="210.82" y="20.32"/>
 </segment>
@@ -10130,12 +10130,12 @@ connections for motor feedback and control.</text>
 </net>
 <net name="Z-" class="0">
 <segment>
-<pinref part="Q6" gate="G$1" pin="D"/>
+<pinref part="PFET04" gate="G$1" pin="D"/>
 <wire x1="210.82" y1="-20.32" x2="210.82" y2="-22.86" width="0.1524" layer="91"/>
 <wire x1="193.04" y1="-22.86" x2="210.82" y2="-22.86" width="0.1524" layer="91"/>
 <pinref part="Z-AXIS" gate="G$1" pin="2"/>
 <wire x1="193.04" y1="-25.4" x2="193.04" y2="-22.86" width="0.1524" layer="91"/>
-<pinref part="Q8" gate="G$1" pin="D"/>
+<pinref part="NFET04" gate="G$1" pin="D"/>
 <wire x1="210.82" y1="-22.86" x2="210.82" y2="-40.64" width="0.1524" layer="91"/>
 <junction x="210.82" y="-22.86"/>
 </segment>
@@ -10143,14 +10143,14 @@ connections for motor feedback and control.</text>
 <net name="N$7" class="0">
 <segment>
 <pinref part="R4" gate="G$1" pin="1"/>
-<pinref part="Q7" gate="G$1" pin="G"/>
+<pinref part="NFET03" gate="G$1" pin="G"/>
 <wire x1="165.1" y1="-7.62" x2="165.1" y2="-10.16" width="0.1524" layer="91"/>
 <wire x1="165.1" y1="-10.16" x2="165.1" y2="-40.64" width="0.1524" layer="91"/>
 <wire x1="165.1" y1="-40.64" x2="170.18" y2="-40.64" width="0.1524" layer="91"/>
 <pinref part="T1" gate="G$1" pin="C"/>
 <wire x1="165.1" y1="-48.26" x2="165.1" y2="-40.64" width="0.1524" layer="91"/>
 <junction x="165.1" y="-40.64"/>
-<pinref part="Q5" gate="G$1" pin="G"/>
+<pinref part="PFET03" gate="G$1" pin="G"/>
 <wire x1="170.18" y1="-10.16" x2="165.1" y2="-10.16" width="0.1524" layer="91"/>
 <junction x="165.1" y="-10.16"/>
 </segment>
@@ -10158,13 +10158,13 @@ connections for motor feedback and control.</text>
 <net name="N$8" class="0">
 <segment>
 <pinref part="R5" gate="G$1" pin="1"/>
-<pinref part="Q6" gate="G$1" pin="G"/>
+<pinref part="PFET04" gate="G$1" pin="G"/>
 <wire x1="223.52" y1="-7.62" x2="223.52" y2="-15.24" width="0.1524" layer="91"/>
 <wire x1="223.52" y1="-15.24" x2="218.44" y2="-15.24" width="0.1524" layer="91"/>
 <wire x1="223.52" y1="-15.24" x2="223.52" y2="-45.72" width="0.1524" layer="91"/>
 <pinref part="T2" gate="G$1" pin="C"/>
 <junction x="223.52" y="-15.24"/>
-<pinref part="Q8" gate="G$1" pin="G"/>
+<pinref part="NFET04" gate="G$1" pin="G"/>
 <wire x1="223.52" y1="-45.72" x2="223.52" y2="-48.26" width="0.1524" layer="91"/>
 <wire x1="218.44" y1="-45.72" x2="223.52" y2="-45.72" width="0.1524" layer="91"/>
 <junction x="223.52" y="-45.72"/>
@@ -10208,24 +10208,24 @@ connections for motor feedback and control.</text>
 </net>
 <net name="R-" class="0">
 <segment>
-<pinref part="Q2" gate="G$1" pin="D"/>
+<pinref part="PFET02" gate="G$1" pin="D"/>
 <wire x1="210.82" y1="60.96" x2="210.82" y2="58.42" width="0.1524" layer="91"/>
 <wire x1="193.04" y1="58.42" x2="210.82" y2="58.42" width="0.1524" layer="91"/>
 <pinref part="R-AXIS" gate="G$1" pin="2"/>
 <wire x1="193.04" y1="55.88" x2="193.04" y2="58.42" width="0.1524" layer="91"/>
-<pinref part="Q4" gate="G$1" pin="D"/>
+<pinref part="NFET02" gate="G$1" pin="D"/>
 <wire x1="210.82" y1="58.42" x2="210.82" y2="40.64" width="0.1524" layer="91"/>
 <junction x="210.82" y="58.42"/>
 </segment>
 </net>
 <net name="R+" class="0">
 <segment>
-<pinref part="Q3" gate="G$1" pin="D"/>
+<pinref part="NFET01" gate="G$1" pin="D"/>
 <wire x1="177.8" y1="45.72" x2="177.8" y2="48.26" width="0.1524" layer="91"/>
 <wire x1="193.04" y1="48.26" x2="177.8" y2="48.26" width="0.1524" layer="91"/>
 <pinref part="R-AXIS" gate="G$1" pin="1"/>
 <wire x1="193.04" y1="53.34" x2="193.04" y2="48.26" width="0.1524" layer="91"/>
-<pinref part="Q1" gate="G$1" pin="D"/>
+<pinref part="PFET01" gate="G$1" pin="D"/>
 <wire x1="177.8" y1="66.04" x2="177.8" y2="48.26" width="0.1524" layer="91"/>
 <junction x="177.8" y="48.26"/>
 </segment>
@@ -10233,14 +10233,14 @@ connections for motor feedback and control.</text>
 <net name="N$13" class="0">
 <segment>
 <pinref part="R8" gate="G$1" pin="1"/>
-<pinref part="Q3" gate="G$1" pin="G"/>
+<pinref part="NFET01" gate="G$1" pin="G"/>
 <wire x1="165.1" y1="73.66" x2="165.1" y2="71.12" width="0.1524" layer="91"/>
 <wire x1="165.1" y1="71.12" x2="165.1" y2="40.64" width="0.1524" layer="91"/>
 <wire x1="165.1" y1="40.64" x2="170.18" y2="40.64" width="0.1524" layer="91"/>
 <pinref part="T3" gate="G$1" pin="C"/>
 <wire x1="165.1" y1="33.02" x2="165.1" y2="40.64" width="0.1524" layer="91"/>
 <junction x="165.1" y="40.64"/>
-<pinref part="Q1" gate="G$1" pin="G"/>
+<pinref part="PFET01" gate="G$1" pin="G"/>
 <wire x1="170.18" y1="71.12" x2="165.1" y2="71.12" width="0.1524" layer="91"/>
 <junction x="165.1" y="71.12"/>
 </segment>
@@ -10248,13 +10248,13 @@ connections for motor feedback and control.</text>
 <net name="N$14" class="0">
 <segment>
 <pinref part="R9" gate="G$1" pin="1"/>
-<pinref part="Q2" gate="G$1" pin="G"/>
+<pinref part="PFET02" gate="G$1" pin="G"/>
 <wire x1="223.52" y1="73.66" x2="223.52" y2="66.04" width="0.1524" layer="91"/>
 <wire x1="223.52" y1="66.04" x2="218.44" y2="66.04" width="0.1524" layer="91"/>
 <wire x1="223.52" y1="66.04" x2="223.52" y2="35.56" width="0.1524" layer="91"/>
 <pinref part="T4" gate="G$1" pin="C"/>
 <junction x="223.52" y="66.04"/>
-<pinref part="Q4" gate="G$1" pin="G"/>
+<pinref part="NFET02" gate="G$1" pin="G"/>
 <wire x1="223.52" y1="35.56" x2="223.52" y2="33.02" width="0.1524" layer="91"/>
 <wire x1="218.44" y1="35.56" x2="223.52" y2="35.56" width="0.1524" layer="91"/>
 <junction x="223.52" y="35.56"/>
@@ -10481,12 +10481,12 @@ connections for motor feedback and control.</text>
 </net>
 <net name="Z+" class="0">
 <segment>
-<pinref part="Q7" gate="G$1" pin="D"/>
+<pinref part="NFET03" gate="G$1" pin="D"/>
 <wire x1="177.8" y1="-33.02" x2="177.8" y2="-35.56" width="0.1524" layer="91"/>
 <wire x1="193.04" y1="-33.02" x2="177.8" y2="-33.02" width="0.1524" layer="91"/>
 <pinref part="Z-AXIS" gate="G$1" pin="1"/>
 <wire x1="193.04" y1="-27.94" x2="193.04" y2="-33.02" width="0.1524" layer="91"/>
-<pinref part="Q5" gate="G$1" pin="D"/>
+<pinref part="PFET03" gate="G$1" pin="D"/>
 <wire x1="177.8" y1="-15.24" x2="177.8" y2="-33.02" width="0.1524" layer="91"/>
 <junction x="177.8" y="-33.02"/>
 </segment>
@@ -10506,7 +10506,7 @@ connections for motor feedback and control.</text>
 <segment>
 <wire x1="165.1" y1="83.82" x2="177.8" y2="83.82" width="0.1524" layer="91"/>
 <pinref part="P+1" gate="1" pin="+5V"/>
-<pinref part="Q2" gate="G$1" pin="S"/>
+<pinref part="PFET02" gate="G$1" pin="S"/>
 <wire x1="177.8" y1="83.82" x2="193.04" y2="83.82" width="0.1524" layer="91"/>
 <wire x1="210.82" y1="71.12" x2="210.82" y2="83.82" width="0.1524" layer="91"/>
 <wire x1="210.82" y1="83.82" x2="193.04" y2="83.82" width="0.1524" layer="91"/>
@@ -10515,7 +10515,7 @@ connections for motor feedback and control.</text>
 <wire x1="210.82" y1="83.82" x2="223.52" y2="83.82" width="0.1524" layer="91"/>
 <junction x="210.82" y="83.82"/>
 <junction x="193.04" y="83.82"/>
-<pinref part="Q1" gate="G$1" pin="S"/>
+<pinref part="PFET01" gate="G$1" pin="S"/>
 <wire x1="177.8" y1="76.2" x2="177.8" y2="83.82" width="0.1524" layer="91"/>
 <junction x="177.8" y="83.82"/>
 </segment>
@@ -10523,7 +10523,7 @@ connections for motor feedback and control.</text>
 <wire x1="165.1" y1="2.54" x2="177.8" y2="2.54" width="0.1524" layer="91"/>
 <pinref part="P+2" gate="1" pin="+5V"/>
 <wire x1="177.8" y1="2.54" x2="193.04" y2="2.54" width="0.1524" layer="91"/>
-<pinref part="Q6" gate="G$1" pin="S"/>
+<pinref part="PFET04" gate="G$1" pin="S"/>
 <wire x1="210.82" y1="-10.16" x2="210.82" y2="2.54" width="0.1524" layer="91"/>
 <wire x1="210.82" y1="2.54" x2="193.04" y2="2.54" width="0.1524" layer="91"/>
 <pinref part="R4" gate="G$1" pin="2"/>
@@ -10531,7 +10531,7 @@ connections for motor feedback and control.</text>
 <wire x1="210.82" y1="2.54" x2="223.52" y2="2.54" width="0.1524" layer="91"/>
 <junction x="193.04" y="2.54"/>
 <junction x="210.82" y="2.54"/>
-<pinref part="Q5" gate="G$1" pin="S"/>
+<pinref part="PFET03" gate="G$1" pin="S"/>
 <wire x1="177.8" y1="-5.08" x2="177.8" y2="2.54" width="0.1524" layer="91"/>
 <junction x="177.8" y="2.54"/>
 </segment>
