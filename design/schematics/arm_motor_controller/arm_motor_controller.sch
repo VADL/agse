@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.2.0">
+<eagle version="7.5.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -4293,23 +4293,25 @@ Standard 0603 ceramic capacitor, and 0.1" leaded capacitor.</description>
 <packages>
 </packages>
 <symbols>
-<symbol name="+5V">
-<wire x1="1.27" y1="-1.905" x2="0" y2="0" width="0.254" layer="94"/>
-<wire x1="0" y1="0" x2="-1.27" y2="-1.905" width="0.254" layer="94"/>
-<text x="-2.54" y="-5.08" size="1.778" layer="96" rot="R90">&gt;VALUE</text>
-<pin name="+5V" x="0" y="-2.54" visible="off" length="short" direction="sup" rot="R90"/>
-</symbol>
 <symbol name="GND">
 <wire x1="-1.905" y1="0" x2="1.905" y2="0" width="0.254" layer="94"/>
 <text x="-2.54" y="-2.54" size="1.778" layer="96">&gt;VALUE</text>
 <pin name="GND" x="0" y="2.54" visible="off" length="short" direction="sup" rot="R270"/>
 </symbol>
+<symbol name="+12V">
+<wire x1="1.27" y1="-1.905" x2="0" y2="0" width="0.254" layer="94"/>
+<wire x1="0" y1="0" x2="-1.27" y2="-1.905" width="0.254" layer="94"/>
+<wire x1="1.27" y1="-0.635" x2="0" y2="1.27" width="0.254" layer="94"/>
+<wire x1="0" y1="1.27" x2="-1.27" y2="-0.635" width="0.254" layer="94"/>
+<text x="-2.54" y="-5.08" size="1.778" layer="96" rot="R90">&gt;VALUE</text>
+<pin name="+12V" x="0" y="-2.54" visible="off" length="short" direction="sup" rot="R90"/>
+</symbol>
 </symbols>
 <devicesets>
-<deviceset name="+5V" prefix="P+">
+<deviceset name="GND" prefix="GND">
 <description>&lt;b&gt;SUPPLY SYMBOL&lt;/b&gt;</description>
 <gates>
-<gate name="1" symbol="+5V" x="0" y="0"/>
+<gate name="1" symbol="GND" x="0" y="0"/>
 </gates>
 <devices>
 <device name="">
@@ -4319,10 +4321,10 @@ Standard 0603 ceramic capacitor, and 0.1" leaded capacitor.</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="GND" prefix="GND">
+<deviceset name="+12V" prefix="P+">
 <description>&lt;b&gt;SUPPLY SYMBOL&lt;/b&gt;</description>
 <gates>
-<gate name="1" symbol="GND" x="0" y="0"/>
+<gate name="1" symbol="+12V" x="0" y="0"/>
 </gates>
 <devices>
 <device name="">
@@ -9621,6 +9623,71 @@ Standard schematic elements and footprints for 5mm, 3mm, 1206, and 0603 sized LE
 </deviceset>
 </devicesets>
 </library>
+<library name="fuse">
+<description>&lt;b&gt;Fuses and Fuse Holders&lt;/b&gt;&lt;p&gt;
+&lt;author&gt;Created by librarian@cadsoft.de&lt;/author&gt;</description>
+<packages>
+<package name="MF-SMDF050">
+<description>&lt;b&gt;MF-SMDF Series - PRC Resettable Fuses&lt;/b&gt;&lt;p&gt;
+Source: http://www.farnell.com/datasheets/716597.pdf</description>
+<smd name="1" x="-2.45" y="0" dx="1.5" dy="4.6" layer="1"/>
+<smd name="2" x="2.45" y="0" dx="1.5" dy="4.6" layer="1"/>
+<wire x1="-2.675" y1="-2.4125" x2="-2.675" y2="-0.8" width="0.1016" layer="51"/>
+<wire x1="-2.675" y1="-0.8" x2="-2.6625" y2="-0.8" width="0.1016" layer="51"/>
+<wire x1="-2.6625" y1="-0.8" x2="-2.6625" y2="0.7875" width="0.1016" layer="51" curve="126.343451"/>
+<wire x1="-2.6625" y1="0.7875" x2="-2.675" y2="0.7875" width="0.1016" layer="51"/>
+<wire x1="-2.675" y1="0.7875" x2="-2.675" y2="2.4125" width="0.1016" layer="51"/>
+<wire x1="-2.675" y1="2.4125" x2="-1.825" y2="2.4125" width="0.1016" layer="51"/>
+<wire x1="-1.825" y1="2.4125" x2="1.825" y2="2.4125" width="0.1016" layer="51"/>
+<wire x1="1.825" y1="2.4125" x2="2.675" y2="2.4125" width="0.1016" layer="51"/>
+<wire x1="2.675" y1="2.4125" x2="2.675" y2="0.8" width="0.1016" layer="51"/>
+<wire x1="2.675" y1="-0.7875" x2="2.675" y2="-2.4125" width="0.1016" layer="51"/>
+<wire x1="2.675" y1="-2.4125" x2="1.825" y2="-2.4125" width="0.1016" layer="51"/>
+<wire x1="1.825" y1="-2.4125" x2="-1.825" y2="-2.4125" width="0.1016" layer="51"/>
+<wire x1="-1.825" y1="-2.4125" x2="-2.675" y2="-2.4125" width="0.1016" layer="51"/>
+<wire x1="-1.825" y1="-2.4125" x2="-1.825" y2="2.4125" width="0.1016" layer="51"/>
+<wire x1="1.825" y1="2.4125" x2="1.825" y2="-2.4125" width="0.1016" layer="51"/>
+<wire x1="2.675" y1="0.8" x2="2.675" y2="-0.7875" width="0.1016" layer="51" curve="126.343451"/>
+<text x="-3.1" y="2.7" size="1.27" layer="25">&gt;NAME</text>
+<text x="-3.225" y="-4.05" size="1.27" layer="27">&gt;VALUE</text>
+</package>
+</packages>
+<symbols>
+<symbol name="FUSE">
+<wire x1="-3.81" y1="-0.762" x2="3.81" y2="-0.762" width="0.254" layer="94"/>
+<wire x1="3.81" y1="0.762" x2="-3.81" y2="0.762" width="0.254" layer="94"/>
+<wire x1="3.81" y1="-0.762" x2="3.81" y2="0.762" width="0.254" layer="94"/>
+<wire x1="-3.81" y1="0.762" x2="-3.81" y2="-0.762" width="0.254" layer="94"/>
+<wire x1="-2.54" y1="0" x2="2.54" y2="0" width="0.1524" layer="94"/>
+<text x="-3.81" y="1.397" size="1.778" layer="95">&gt;NAME</text>
+<text x="-3.81" y="-2.921" size="1.778" layer="96">&gt;VALUE</text>
+<pin name="2" x="5.08" y="0" visible="off" length="short" direction="pas" swaplevel="1" rot="R180"/>
+<pin name="1" x="-5.08" y="0" visible="off" length="short" direction="pas" swaplevel="1"/>
+</symbol>
+</symbols>
+<devicesets>
+<deviceset name="MF-SMDF">
+<description>&lt;b&gt;MF-SMDF Series - PRC Resettable Fuses&lt;/b&gt;&lt;p&gt;
+Source: http://www.farnell.com/datasheets/716597.pdf</description>
+<gates>
+<gate name="A" symbol="FUSE" x="0" y="0"/>
+</gates>
+<devices>
+<device name="" package="MF-SMDF050">
+<connects>
+<connect gate="A" pin="1" pad="1"/>
+<connect gate="A" pin="2" pad="2"/>
+</connects>
+<technologies>
+<technology name="050"/>
+<technology name="150"/>
+<technology name="200"/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+</devicesets>
+</library>
 </libraries>
 <attributes>
 </attributes>
@@ -9633,10 +9700,10 @@ Standard schematic elements and footprints for 5mm, 3mm, 1206, and 0603 sized LE
 </classes>
 <parts>
 <part name="U$1" library="adafruit" deviceset="BEAGLEBONE_OUTLINE" device="NO_DIM" value="BEAGLEBONE_OUTLINENO_DIM"/>
-<part name="JP1" library="SparkFun-Connectors" deviceset="M02" device="3.5MM">
+<part name="JP1" library="SparkFun-Connectors" deviceset="M02" device="POLAR" value="M02POLAR">
 <attribute name="MANEX" value="257-0004040"/>
 </part>
-<part name="D1" library="SparkFun-DiscreteSemi" deviceset="DIODE" device="SMA">
+<part name="D1" library="SparkFun-DiscreteSemi" deviceset="DIODE" device="ES3J" value="3A/600V">
 <attribute name="MANEX" value="130-0001388"/>
 </part>
 <part name="C1" library="SparkFun-Passives" deviceset="CAP_POL" device="D" value="100uf, 50V">
@@ -9657,7 +9724,6 @@ Standard schematic elements and footprints for 5mm, 3mm, 1206, and 0603 sized LE
 </part>
 <part name="GND7" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="SUPPLY3" library="SparkFun-Aesthetics" deviceset="5V" device=""/>
-<part name="P+2" library="supply1" deviceset="+5V" device="" value="+12V"/>
 <part name="GND9" library="supply1" deviceset="GND" device=""/>
 <part name="PFET03" library="SparkFun-DiscreteSemi" deviceset="MOSFET-PCHANNEL" device="FQP27P06" value="PFET-FQP27P06"/>
 <part name="PFET04" library="SparkFun-DiscreteSemi" deviceset="MOSFET-PCHANNEL" device="FQP27P06" value="PFET-FQP27P06"/>
@@ -9669,7 +9735,6 @@ Standard schematic elements and footprints for 5mm, 3mm, 1206, and 0603 sized LE
 <part name="T2" library="transistor" deviceset="*-NPN-" device="SOT23-BEC" technology="BF820"/>
 <part name="R6" library="resistor" deviceset="R-EU_" device="M0805" value="10K"/>
 <part name="R7" library="resistor" deviceset="R-EU_" device="M0805" value="10K"/>
-<part name="P+1" library="supply1" deviceset="+5V" device="" value="+12V"/>
 <part name="GND10" library="supply1" deviceset="GND" device=""/>
 <part name="PFET01" library="SparkFun-DiscreteSemi" deviceset="MOSFET-PCHANNEL" device="FQP27P06" value="PFET-FQP27P06"/>
 <part name="PFET02" library="SparkFun-DiscreteSemi" deviceset="MOSFET-PCHANNEL" device="FQP27P06" value="PFET-FQP27P06"/>
@@ -9686,7 +9751,6 @@ Standard schematic elements and footprints for 5mm, 3mm, 1206, and 0603 sized LE
 <part name="R12" library="resistor" deviceset="R-EU_" device="M0805" value="10K"/>
 <part name="R13" library="resistor" deviceset="R-EU_" device="M0805" value="7K"/>
 <part name="R14" library="resistor" deviceset="R-EU_" device="M0805" value="10K"/>
-<part name="P+3" library="supply1" deviceset="+5V" device="" value="+12V"/>
 <part name="GND11" library="supply1" deviceset="GND" device=""/>
 <part name="R15" library="resistor" deviceset="R-EU_" device="M0805" value="1.7K"/>
 <part name="R16" library="resistor" deviceset="R-EU_" device="M0805" value="3.3K"/>
@@ -9704,10 +9768,10 @@ Standard schematic elements and footprints for 5mm, 3mm, 1206, and 0603 sized LE
 <part name="GND15" library="supply1" deviceset="GND" device=""/>
 <part name="GND16" library="supply1" deviceset="GND" device=""/>
 <part name="FRAME1" library="SparkFun-Aesthetics" deviceset="FRAME-LEDGER" device=""/>
-<part name="R-AXIS" library="SparkFun-Connectors" deviceset="M02" device="3.5MM">
+<part name="R-AXIS" library="SparkFun-Connectors" deviceset="M02" device="POLAR" value="M02POLAR">
 <attribute name="MANEX" value="257-0004040"/>
 </part>
-<part name="Z-AXIS" library="SparkFun-Connectors" deviceset="M02" device="3.5MM">
+<part name="Z-AXIS" library="SparkFun-Connectors" deviceset="M02" device="POLAR" value="M02POLAR">
 <attribute name="MANEX" value="257-0004040"/>
 </part>
 <part name="SERVO" library="molex-spox" deviceset="AX-12A" device=""/>
@@ -9735,6 +9799,14 @@ Standard schematic elements and footprints for 5mm, 3mm, 1206, and 0603 sized LE
 <part name="D7" library="SparkFun-LED" deviceset="LED" device="-FKIT-1206"/>
 <part name="R28" library="resistor" deviceset="R-EU_" device="M0805" value="50"/>
 <part name="LD1085" library="SparkFun-PowerIC" deviceset="V_REG_317" device="SINK"/>
+<part name="RPTC" library="fuse" deviceset="MF-SMDF" device="" technology="050"/>
+<part name="HPTC" library="fuse" deviceset="MF-SMDF" device="" technology="050"/>
+<part name="P+1" library="supply1" deviceset="+12V" device=""/>
+<part name="P+2" library="supply1" deviceset="+12V" device=""/>
+<part name="P+4" library="supply1" deviceset="+12V" device=""/>
+<part name="P+5" library="supply1" deviceset="+12V" device=""/>
+<part name="P+3" library="supply1" deviceset="+12V" device=""/>
+<part name="P+6" library="supply1" deviceset="+12V" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -9760,7 +9832,7 @@ connections for motor feedback and control.</text>
 <text x="33.02" y="-60.96" size="3.81" layer="94">B</text>
 <text x="-35.56" y="45.72" size="3.81" layer="91" align="top-left">Power Regulation:</text>
 <text x="68.58" y="86.36" size="3.81" layer="91" align="top-left">Limit Switches:</text>
-<text x="177.8" y="93.98" size="3.81" layer="91" align="top-left">Motor Drivers:</text>
+<text x="177.8" y="119.38" size="3.81" layer="91" align="top-left">Motor Drivers:</text>
 <text x="124.46" y="208.28" size="3.81" layer="91" align="top-left">Servo Serial Buffer:</text>
 <text x="289.56" y="60.96" size="3.81" layer="91" align="top-left">Encoder Feedback:</text>
 <text x="73.66" y="-7.62" size="3.81" layer="91" align="top-left">LED Display:</text>
@@ -9791,9 +9863,6 @@ connections for motor feedback and control.</text>
 </instance>
 <instance part="GND7" gate="1" x="-12.7" y="10.16"/>
 <instance part="SUPPLY3" gate="G$1" x="353.06" y="134.62"/>
-<instance part="P+2" gate="1" x="193.04" y="5.08" smashed="yes">
-<attribute name="VALUE" x="194.945" y="7.62" size="1.778" layer="96" rot="R180"/>
-</instance>
 <instance part="GND9" gate="1" x="193.04" y="-63.5"/>
 <instance part="PFET03" gate="G$1" x="177.8" y="-10.16" rot="MR180"/>
 <instance part="PFET04" gate="G$1" x="210.82" y="-15.24" rot="R180"/>
@@ -9805,28 +9874,22 @@ connections for motor feedback and control.</text>
 <instance part="T2" gate="G$1" x="226.06" y="-53.34" rot="MR0"/>
 <instance part="R6" gate="G$1" x="137.16" y="-53.34" rot="R180"/>
 <instance part="R7" gate="G$1" x="248.92" y="-53.34" rot="R180"/>
-<instance part="P+1" gate="1" x="193.04" y="86.36" smashed="yes">
-<attribute name="VALUE" x="194.945" y="88.9" size="1.778" layer="96" rot="R180"/>
-</instance>
-<instance part="GND10" gate="1" x="193.04" y="17.78"/>
-<instance part="PFET01" gate="G$1" x="177.8" y="71.12" rot="MR180"/>
-<instance part="PFET02" gate="G$1" x="210.82" y="66.04" rot="R180"/>
-<instance part="NFET02" gate="G$1" x="210.82" y="35.56" rot="MR0"/>
-<instance part="NFET01" gate="G$1" x="177.8" y="40.64"/>
-<instance part="R8" gate="G$1" x="165.1" y="78.74" rot="R90"/>
-<instance part="R9" gate="G$1" x="223.52" y="78.74" rot="R90"/>
-<instance part="T3" gate="G$1" x="162.56" y="27.94"/>
-<instance part="T4" gate="G$1" x="226.06" y="27.94" rot="MR0"/>
-<instance part="R10" gate="G$1" x="137.16" y="27.94" rot="R180"/>
-<instance part="R11" gate="G$1" x="248.92" y="27.94" rot="R180"/>
+<instance part="GND10" gate="1" x="193.04" y="27.94"/>
+<instance part="PFET01" gate="G$1" x="177.8" y="81.28" rot="MR180"/>
+<instance part="PFET02" gate="G$1" x="210.82" y="76.2" rot="R180"/>
+<instance part="NFET02" gate="G$1" x="210.82" y="45.72" rot="MR0"/>
+<instance part="NFET01" gate="G$1" x="177.8" y="50.8"/>
+<instance part="R8" gate="G$1" x="165.1" y="88.9" rot="R90"/>
+<instance part="R9" gate="G$1" x="223.52" y="88.9" rot="R90"/>
+<instance part="T3" gate="G$1" x="162.56" y="38.1"/>
+<instance part="T4" gate="G$1" x="226.06" y="38.1" rot="MR0"/>
+<instance part="R10" gate="G$1" x="137.16" y="38.1" rot="R180"/>
+<instance part="R11" gate="G$1" x="248.92" y="38.1" rot="R180"/>
 <instance part="T5" gate="G$1" x="149.86" y="167.64"/>
 <instance part="T6" gate="G$1" x="165.1" y="172.72"/>
 <instance part="R12" gate="G$1" x="152.4" y="187.96" rot="R90"/>
 <instance part="R13" gate="G$1" x="167.64" y="187.96" rot="R90"/>
 <instance part="R14" gate="G$1" x="139.7" y="167.64" rot="R180"/>
-<instance part="P+3" gate="1" x="160.02" y="198.12" smashed="yes">
-<attribute name="VALUE" x="161.925" y="200.66" size="1.778" layer="96" rot="R180"/>
-</instance>
 <instance part="GND11" gate="1" x="160.02" y="157.48"/>
 <instance part="R15" gate="G$1" x="175.26" y="172.72" rot="R90"/>
 <instance part="R16" gate="G$1" x="175.26" y="144.78" rot="R90"/>
@@ -9845,14 +9908,14 @@ connections for motor feedback and control.</text>
 <instance part="GND16" gate="1" x="307.34" y="-45.72"/>
 <instance part="FRAME1" gate="G$1" x="-63.5" y="-68.58"/>
 <instance part="FRAME1" gate="G$2" x="-63.5" y="-68.58"/>
-<instance part="R-AXIS" gate="G$1" x="185.42" y="53.34">
-<attribute name="MANEX" x="185.42" y="53.34" size="1.778" layer="96" display="off"/>
+<instance part="R-AXIS" gate="G$1" x="185.42" y="63.5">
+<attribute name="MANEX" x="185.42" y="63.5" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="Z-AXIS" gate="G$1" x="185.42" y="-27.94">
 <attribute name="MANEX" x="185.42" y="-27.94" size="1.778" layer="96" display="off"/>
 </instance>
-<instance part="SERVO" gate="G$1" x="149.86" y="134.62"/>
-<instance part="GND17" gate="1" x="137.16" y="129.54"/>
+<instance part="SERVO" gate="G$1" x="231.14" y="167.64"/>
+<instance part="GND17" gate="1" x="218.44" y="162.56"/>
 <instance part="D3" gate="G$1" x="76.2" y="-35.56"/>
 <instance part="D4" gate="G$1" x="83.82" y="-35.56"/>
 <instance part="D5" gate="G$1" x="91.44" y="-35.56"/>
@@ -9871,11 +9934,19 @@ connections for motor feedback and control.</text>
 <instance part="-HLS" gate="G$1" x="73.66" y="43.18"/>
 <instance part="+HLS" gate="G$1" x="73.66" y="27.94"/>
 <instance part="GND18" gate="1" x="83.82" y="17.78"/>
-<instance part="SERVO1" gate="G$1" x="149.86" y="116.84"/>
-<instance part="GND19" gate="1" x="137.16" y="111.76"/>
+<instance part="SERVO1" gate="G$1" x="231.14" y="149.86"/>
+<instance part="GND19" gate="1" x="218.44" y="144.78"/>
 <instance part="D7" gate="G$1" x="68.58" y="-35.56"/>
 <instance part="R28" gate="G$1" x="68.58" y="-48.26" rot="R90"/>
 <instance part="LD1085" gate="G$1" x="-12.7" y="30.48"/>
+<instance part="RPTC" gate="A" x="193.04" y="101.6" rot="R270"/>
+<instance part="HPTC" gate="A" x="193.04" y="10.16" rot="R270"/>
+<instance part="P+1" gate="1" x="193.04" y="22.86"/>
+<instance part="P+2" gate="1" x="193.04" y="114.3"/>
+<instance part="P+4" gate="1" x="198.12" y="152.4"/>
+<instance part="P+5" gate="1" x="198.12" y="170.18"/>
+<instance part="P+3" gate="1" x="160.02" y="198.12"/>
+<instance part="P+6" gate="1" x="-45.72" y="38.1"/>
 </instances>
 <busses>
 </busses>
@@ -9938,20 +10009,20 @@ connections for motor feedback and control.</text>
 <segment>
 <pinref part="NFET01" gate="G$1" pin="S"/>
 <pinref part="GND10" gate="1" pin="GND"/>
-<wire x1="177.8" y1="35.56" x2="177.8" y2="20.32" width="0.1524" layer="91"/>
-<wire x1="177.8" y1="20.32" x2="193.04" y2="20.32" width="0.1524" layer="91"/>
-<wire x1="223.52" y1="20.32" x2="210.82" y2="20.32" width="0.1524" layer="91"/>
+<wire x1="177.8" y1="45.72" x2="177.8" y2="30.48" width="0.1524" layer="91"/>
+<wire x1="177.8" y1="30.48" x2="193.04" y2="30.48" width="0.1524" layer="91"/>
+<wire x1="223.52" y1="30.48" x2="210.82" y2="30.48" width="0.1524" layer="91"/>
 <pinref part="T3" gate="G$1" pin="E"/>
-<wire x1="210.82" y1="20.32" x2="193.04" y2="20.32" width="0.1524" layer="91"/>
-<wire x1="165.1" y1="22.86" x2="165.1" y2="20.32" width="0.1524" layer="91"/>
-<wire x1="165.1" y1="20.32" x2="177.8" y2="20.32" width="0.1524" layer="91"/>
+<wire x1="210.82" y1="30.48" x2="193.04" y2="30.48" width="0.1524" layer="91"/>
+<wire x1="165.1" y1="33.02" x2="165.1" y2="30.48" width="0.1524" layer="91"/>
+<wire x1="165.1" y1="30.48" x2="177.8" y2="30.48" width="0.1524" layer="91"/>
 <pinref part="T4" gate="G$1" pin="E"/>
-<wire x1="223.52" y1="22.86" x2="223.52" y2="20.32" width="0.1524" layer="91"/>
-<junction x="193.04" y="20.32"/>
-<junction x="177.8" y="20.32"/>
+<wire x1="223.52" y1="33.02" x2="223.52" y2="30.48" width="0.1524" layer="91"/>
+<junction x="193.04" y="30.48"/>
+<junction x="177.8" y="30.48"/>
 <pinref part="NFET02" gate="G$1" pin="S"/>
-<wire x1="210.82" y1="30.48" x2="210.82" y2="20.32" width="0.1524" layer="91"/>
-<junction x="210.82" y="20.32"/>
+<wire x1="210.82" y1="40.64" x2="210.82" y2="30.48" width="0.1524" layer="91"/>
+<junction x="210.82" y="30.48"/>
 </segment>
 <segment>
 <pinref part="T5" gate="G$1" pin="E"/>
@@ -9990,7 +10061,7 @@ connections for motor feedback and control.</text>
 </segment>
 <segment>
 <pinref part="SERVO" gate="G$1" pin="GND"/>
-<wire x1="142.24" y1="132.08" x2="137.16" y2="132.08" width="0.1524" layer="91"/>
+<wire x1="223.52" y1="165.1" x2="218.44" y2="165.1" width="0.1524" layer="91"/>
 <pinref part="GND17" gate="1" pin="GND"/>
 </segment>
 <segment>
@@ -10046,7 +10117,7 @@ connections for motor feedback and control.</text>
 </segment>
 <segment>
 <pinref part="SERVO1" gate="G$1" pin="GND"/>
-<wire x1="142.24" y1="114.3" x2="137.16" y2="114.3" width="0.1524" layer="91"/>
+<wire x1="223.52" y1="147.32" x2="218.44" y2="147.32" width="0.1524" layer="91"/>
 <pinref part="GND19" gate="1" pin="GND"/>
 </segment>
 <segment>
@@ -10209,62 +10280,62 @@ connections for motor feedback and control.</text>
 <net name="R-" class="0">
 <segment>
 <pinref part="PFET02" gate="G$1" pin="D"/>
-<wire x1="210.82" y1="60.96" x2="210.82" y2="58.42" width="0.1524" layer="91"/>
-<wire x1="193.04" y1="58.42" x2="210.82" y2="58.42" width="0.1524" layer="91"/>
+<wire x1="210.82" y1="71.12" x2="210.82" y2="68.58" width="0.1524" layer="91"/>
+<wire x1="193.04" y1="68.58" x2="210.82" y2="68.58" width="0.1524" layer="91"/>
 <pinref part="R-AXIS" gate="G$1" pin="2"/>
-<wire x1="193.04" y1="55.88" x2="193.04" y2="58.42" width="0.1524" layer="91"/>
+<wire x1="193.04" y1="66.04" x2="193.04" y2="68.58" width="0.1524" layer="91"/>
 <pinref part="NFET02" gate="G$1" pin="D"/>
-<wire x1="210.82" y1="58.42" x2="210.82" y2="40.64" width="0.1524" layer="91"/>
-<junction x="210.82" y="58.42"/>
+<wire x1="210.82" y1="68.58" x2="210.82" y2="50.8" width="0.1524" layer="91"/>
+<junction x="210.82" y="68.58"/>
 </segment>
 </net>
 <net name="R+" class="0">
 <segment>
 <pinref part="NFET01" gate="G$1" pin="D"/>
-<wire x1="177.8" y1="45.72" x2="177.8" y2="48.26" width="0.1524" layer="91"/>
-<wire x1="193.04" y1="48.26" x2="177.8" y2="48.26" width="0.1524" layer="91"/>
+<wire x1="177.8" y1="55.88" x2="177.8" y2="58.42" width="0.1524" layer="91"/>
+<wire x1="193.04" y1="58.42" x2="177.8" y2="58.42" width="0.1524" layer="91"/>
 <pinref part="R-AXIS" gate="G$1" pin="1"/>
-<wire x1="193.04" y1="53.34" x2="193.04" y2="48.26" width="0.1524" layer="91"/>
+<wire x1="193.04" y1="63.5" x2="193.04" y2="58.42" width="0.1524" layer="91"/>
 <pinref part="PFET01" gate="G$1" pin="D"/>
-<wire x1="177.8" y1="66.04" x2="177.8" y2="48.26" width="0.1524" layer="91"/>
-<junction x="177.8" y="48.26"/>
+<wire x1="177.8" y1="76.2" x2="177.8" y2="58.42" width="0.1524" layer="91"/>
+<junction x="177.8" y="58.42"/>
 </segment>
 </net>
 <net name="N$13" class="0">
 <segment>
 <pinref part="R8" gate="G$1" pin="1"/>
 <pinref part="NFET01" gate="G$1" pin="G"/>
-<wire x1="165.1" y1="73.66" x2="165.1" y2="71.12" width="0.1524" layer="91"/>
-<wire x1="165.1" y1="71.12" x2="165.1" y2="40.64" width="0.1524" layer="91"/>
-<wire x1="165.1" y1="40.64" x2="170.18" y2="40.64" width="0.1524" layer="91"/>
+<wire x1="165.1" y1="83.82" x2="165.1" y2="81.28" width="0.1524" layer="91"/>
+<wire x1="165.1" y1="81.28" x2="165.1" y2="50.8" width="0.1524" layer="91"/>
+<wire x1="165.1" y1="50.8" x2="170.18" y2="50.8" width="0.1524" layer="91"/>
 <pinref part="T3" gate="G$1" pin="C"/>
-<wire x1="165.1" y1="33.02" x2="165.1" y2="40.64" width="0.1524" layer="91"/>
-<junction x="165.1" y="40.64"/>
+<wire x1="165.1" y1="43.18" x2="165.1" y2="50.8" width="0.1524" layer="91"/>
+<junction x="165.1" y="50.8"/>
 <pinref part="PFET01" gate="G$1" pin="G"/>
-<wire x1="170.18" y1="71.12" x2="165.1" y2="71.12" width="0.1524" layer="91"/>
-<junction x="165.1" y="71.12"/>
+<wire x1="170.18" y1="81.28" x2="165.1" y2="81.28" width="0.1524" layer="91"/>
+<junction x="165.1" y="81.28"/>
 </segment>
 </net>
 <net name="N$14" class="0">
 <segment>
 <pinref part="R9" gate="G$1" pin="1"/>
 <pinref part="PFET02" gate="G$1" pin="G"/>
-<wire x1="223.52" y1="73.66" x2="223.52" y2="66.04" width="0.1524" layer="91"/>
-<wire x1="223.52" y1="66.04" x2="218.44" y2="66.04" width="0.1524" layer="91"/>
-<wire x1="223.52" y1="66.04" x2="223.52" y2="35.56" width="0.1524" layer="91"/>
+<wire x1="223.52" y1="83.82" x2="223.52" y2="76.2" width="0.1524" layer="91"/>
+<wire x1="223.52" y1="76.2" x2="218.44" y2="76.2" width="0.1524" layer="91"/>
+<wire x1="223.52" y1="76.2" x2="223.52" y2="45.72" width="0.1524" layer="91"/>
 <pinref part="T4" gate="G$1" pin="C"/>
-<junction x="223.52" y="66.04"/>
+<junction x="223.52" y="76.2"/>
 <pinref part="NFET02" gate="G$1" pin="G"/>
-<wire x1="223.52" y1="35.56" x2="223.52" y2="33.02" width="0.1524" layer="91"/>
-<wire x1="218.44" y1="35.56" x2="223.52" y2="35.56" width="0.1524" layer="91"/>
-<junction x="223.52" y="35.56"/>
+<wire x1="223.52" y1="45.72" x2="223.52" y2="43.18" width="0.1524" layer="91"/>
+<wire x1="218.44" y1="45.72" x2="223.52" y2="45.72" width="0.1524" layer="91"/>
+<junction x="223.52" y="45.72"/>
 </segment>
 </net>
 <net name="-RADIUS" class="0">
 <segment>
 <pinref part="R10" gate="G$1" pin="2"/>
-<wire x1="132.08" y1="27.94" x2="129.54" y2="27.94" width="0.1524" layer="91"/>
-<label x="129.54" y="27.94" size="1.778" layer="95" rot="R180"/>
+<wire x1="132.08" y1="38.1" x2="129.54" y2="38.1" width="0.1524" layer="91"/>
+<label x="129.54" y="38.1" size="1.778" layer="95" rot="R180"/>
 </segment>
 <segment>
 <pinref part="U$1" gate="G$1" pin="GPIO2_22"/>
@@ -10281,8 +10352,8 @@ connections for motor feedback and control.</text>
 <net name="+RADIUS" class="0">
 <segment>
 <pinref part="R11" gate="G$1" pin="1"/>
-<wire x1="254" y1="27.94" x2="256.54" y2="27.94" width="0.1524" layer="91"/>
-<label x="256.54" y="27.94" size="1.778" layer="95"/>
+<wire x1="254" y1="38.1" x2="256.54" y2="38.1" width="0.1524" layer="91"/>
+<label x="256.54" y="38.1" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="U$1" gate="G$1" pin="GPIO2_23"/>
@@ -10329,13 +10400,13 @@ connections for motor feedback and control.</text>
 </segment>
 <segment>
 <pinref part="SERVO" gate="G$1" pin="DATA"/>
-<wire x1="142.24" y1="137.16" x2="137.16" y2="137.16" width="0.1524" layer="91"/>
-<label x="137.16" y="137.16" size="1.778" layer="95" rot="R180"/>
+<wire x1="223.52" y1="170.18" x2="218.44" y2="170.18" width="0.1524" layer="91"/>
+<label x="218.44" y="170.18" size="1.778" layer="95" rot="R180"/>
 </segment>
 <segment>
 <pinref part="SERVO1" gate="G$1" pin="DATA"/>
-<wire x1="142.24" y1="119.38" x2="137.16" y2="119.38" width="0.1524" layer="91"/>
-<label x="137.16" y="119.38" size="1.778" layer="95" rot="R180"/>
+<wire x1="223.52" y1="152.4" x2="218.44" y2="152.4" width="0.1524" layer="91"/>
+<label x="218.44" y="152.4" size="1.778" layer="95" rot="R180"/>
 </segment>
 </net>
 <net name="BBB_RX" class="0">
@@ -10491,66 +10562,6 @@ connections for motor feedback and control.</text>
 <junction x="177.8" y="-33.02"/>
 </segment>
 </net>
-<net name="12V" class="0">
-<segment>
-<pinref part="SERVO" gate="G$1" pin="VDD"/>
-<wire x1="142.24" y1="134.62" x2="137.16" y2="134.62" width="0.1524" layer="91"/>
-<label x="137.16" y="134.62" size="1.778" layer="95" rot="R180"/>
-</segment>
-<segment>
-<pinref part="D1" gate="G$1" pin="A"/>
-<pinref part="JP1" gate="G$1" pin="1"/>
-<wire x1="-50.8" y1="30.48" x2="-40.64" y2="30.48" width="0.1524" layer="91"/>
-<label x="-45.72" y="30.48" size="1.778" layer="95"/>
-</segment>
-<segment>
-<wire x1="165.1" y1="83.82" x2="177.8" y2="83.82" width="0.1524" layer="91"/>
-<pinref part="P+1" gate="1" pin="+5V"/>
-<pinref part="PFET02" gate="G$1" pin="S"/>
-<wire x1="177.8" y1="83.82" x2="193.04" y2="83.82" width="0.1524" layer="91"/>
-<wire x1="210.82" y1="71.12" x2="210.82" y2="83.82" width="0.1524" layer="91"/>
-<wire x1="210.82" y1="83.82" x2="193.04" y2="83.82" width="0.1524" layer="91"/>
-<pinref part="R8" gate="G$1" pin="2"/>
-<pinref part="R9" gate="G$1" pin="2"/>
-<wire x1="210.82" y1="83.82" x2="223.52" y2="83.82" width="0.1524" layer="91"/>
-<junction x="210.82" y="83.82"/>
-<junction x="193.04" y="83.82"/>
-<pinref part="PFET01" gate="G$1" pin="S"/>
-<wire x1="177.8" y1="76.2" x2="177.8" y2="83.82" width="0.1524" layer="91"/>
-<junction x="177.8" y="83.82"/>
-</segment>
-<segment>
-<wire x1="165.1" y1="2.54" x2="177.8" y2="2.54" width="0.1524" layer="91"/>
-<pinref part="P+2" gate="1" pin="+5V"/>
-<wire x1="177.8" y1="2.54" x2="193.04" y2="2.54" width="0.1524" layer="91"/>
-<pinref part="PFET04" gate="G$1" pin="S"/>
-<wire x1="210.82" y1="-10.16" x2="210.82" y2="2.54" width="0.1524" layer="91"/>
-<wire x1="210.82" y1="2.54" x2="193.04" y2="2.54" width="0.1524" layer="91"/>
-<pinref part="R4" gate="G$1" pin="2"/>
-<pinref part="R5" gate="G$1" pin="2"/>
-<wire x1="210.82" y1="2.54" x2="223.52" y2="2.54" width="0.1524" layer="91"/>
-<junction x="193.04" y="2.54"/>
-<junction x="210.82" y="2.54"/>
-<pinref part="PFET03" gate="G$1" pin="S"/>
-<wire x1="177.8" y1="-5.08" x2="177.8" y2="2.54" width="0.1524" layer="91"/>
-<junction x="177.8" y="2.54"/>
-</segment>
-<segment>
-<pinref part="P+3" gate="1" pin="+5V"/>
-<pinref part="R13" gate="G$1" pin="2"/>
-<wire x1="160.02" y1="195.58" x2="167.64" y2="195.58" width="0.1524" layer="91"/>
-<wire x1="167.64" y1="195.58" x2="167.64" y2="193.04" width="0.1524" layer="91"/>
-<pinref part="R12" gate="G$1" pin="2"/>
-<wire x1="152.4" y1="193.04" x2="152.4" y2="195.58" width="0.1524" layer="91"/>
-<wire x1="152.4" y1="195.58" x2="160.02" y2="195.58" width="0.1524" layer="91"/>
-<junction x="160.02" y="195.58"/>
-</segment>
-<segment>
-<pinref part="SERVO1" gate="G$1" pin="VDD"/>
-<wire x1="142.24" y1="116.84" x2="137.16" y2="116.84" width="0.1524" layer="91"/>
-<label x="137.16" y="116.84" size="1.778" layer="95" rot="R180"/>
-</segment>
-</net>
 <net name="N$1" class="0">
 <segment>
 <pinref part="D3" gate="G$1" pin="C"/>
@@ -10588,8 +10599,8 @@ connections for motor feedback and control.</text>
 <segment>
 <pinref part="T3" gate="G$1" pin="B"/>
 <pinref part="R10" gate="G$1" pin="1"/>
-<wire x1="142.24" y1="27.94" x2="160.02" y2="27.94" width="0.1524" layer="91"/>
-<label x="144.78" y="27.94" size="1.778" layer="95"/>
+<wire x1="142.24" y1="38.1" x2="160.02" y2="38.1" width="0.1524" layer="91"/>
+<label x="144.78" y="38.1" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="U$1" gate="G$1" pin="GPIO2_10"/>
@@ -10606,8 +10617,8 @@ connections for motor feedback and control.</text>
 <segment>
 <pinref part="T4" gate="G$1" pin="B"/>
 <pinref part="R11" gate="G$1" pin="2"/>
-<wire x1="243.84" y1="27.94" x2="228.6" y2="27.94" width="0.1524" layer="91"/>
-<label x="228.6" y="27.94" size="1.778" layer="95"/>
+<wire x1="243.84" y1="38.1" x2="228.6" y2="38.1" width="0.1524" layer="91"/>
+<label x="228.6" y="38.1" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="U$1" gate="G$1" pin="GPIO2_8"/>
@@ -10677,6 +10688,84 @@ connections for motor feedback and control.</text>
 <pinref part="D7" gate="G$1" pin="C"/>
 <pinref part="R28" gate="G$1" pin="2"/>
 <wire x1="68.58" y1="-40.64" x2="68.58" y2="-43.18" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="R_VDD" class="0">
+<segment>
+<pinref part="PFET02" gate="G$1" pin="S"/>
+<wire x1="210.82" y1="81.28" x2="210.82" y2="93.98" width="0.1524" layer="91"/>
+<pinref part="R9" gate="G$1" pin="2"/>
+<wire x1="210.82" y1="93.98" x2="223.52" y2="93.98" width="0.1524" layer="91"/>
+<pinref part="PFET01" gate="G$1" pin="S"/>
+<wire x1="177.8" y1="86.36" x2="177.8" y2="93.98" width="0.1524" layer="91"/>
+<wire x1="165.1" y1="93.98" x2="177.8" y2="93.98" width="0.1524" layer="91"/>
+<pinref part="R8" gate="G$1" pin="2"/>
+<wire x1="177.8" y1="93.98" x2="193.04" y2="93.98" width="0.1524" layer="91"/>
+<junction x="177.8" y="93.98"/>
+<junction x="210.82" y="93.98"/>
+<pinref part="RPTC" gate="A" pin="2"/>
+<wire x1="193.04" y1="93.98" x2="210.82" y2="93.98" width="0.1524" layer="91"/>
+<wire x1="193.04" y1="96.52" x2="193.04" y2="93.98" width="0.1524" layer="91"/>
+<junction x="193.04" y="93.98"/>
+</segment>
+</net>
+<net name="H_VDD" class="0">
+<segment>
+<pinref part="PFET04" gate="G$1" pin="S"/>
+<wire x1="210.82" y1="-10.16" x2="210.82" y2="2.54" width="0.1524" layer="91"/>
+<pinref part="R5" gate="G$1" pin="2"/>
+<wire x1="210.82" y1="2.54" x2="223.52" y2="2.54" width="0.1524" layer="91"/>
+<pinref part="PFET03" gate="G$1" pin="S"/>
+<wire x1="177.8" y1="-5.08" x2="177.8" y2="2.54" width="0.1524" layer="91"/>
+<wire x1="165.1" y1="2.54" x2="177.8" y2="2.54" width="0.1524" layer="91"/>
+<pinref part="R4" gate="G$1" pin="2"/>
+<wire x1="177.8" y1="2.54" x2="193.04" y2="2.54" width="0.1524" layer="91"/>
+<junction x="177.8" y="2.54"/>
+<junction x="210.82" y="2.54"/>
+<pinref part="HPTC" gate="A" pin="2"/>
+<wire x1="193.04" y1="2.54" x2="210.82" y2="2.54" width="0.1524" layer="91"/>
+<wire x1="193.04" y1="5.08" x2="193.04" y2="2.54" width="0.1524" layer="91"/>
+<junction x="193.04" y="2.54"/>
+</segment>
+</net>
+<net name="+12V" class="0">
+<segment>
+<pinref part="HPTC" gate="A" pin="1"/>
+<wire x1="193.04" y1="15.24" x2="193.04" y2="20.32" width="0.1524" layer="91"/>
+<pinref part="P+1" gate="1" pin="+12V"/>
+</segment>
+<segment>
+<pinref part="RPTC" gate="A" pin="1"/>
+<wire x1="193.04" y1="106.68" x2="193.04" y2="111.76" width="0.1524" layer="91"/>
+<pinref part="P+2" gate="1" pin="+12V"/>
+</segment>
+<segment>
+<pinref part="SERVO1" gate="G$1" pin="VDD"/>
+<wire x1="223.52" y1="149.86" x2="198.12" y2="149.86" width="0.1524" layer="91"/>
+<pinref part="P+4" gate="1" pin="+12V"/>
+</segment>
+<segment>
+<pinref part="SERVO" gate="G$1" pin="VDD"/>
+<wire x1="223.52" y1="167.64" x2="198.12" y2="167.64" width="0.1524" layer="91"/>
+<pinref part="P+5" gate="1" pin="+12V"/>
+</segment>
+<segment>
+<pinref part="R13" gate="G$1" pin="2"/>
+<wire x1="167.64" y1="195.58" x2="167.64" y2="193.04" width="0.1524" layer="91"/>
+<pinref part="R12" gate="G$1" pin="2"/>
+<wire x1="152.4" y1="193.04" x2="152.4" y2="195.58" width="0.1524" layer="91"/>
+<wire x1="152.4" y1="195.58" x2="160.02" y2="195.58" width="0.1524" layer="91"/>
+<pinref part="P+3" gate="1" pin="+12V"/>
+<wire x1="160.02" y1="195.58" x2="167.64" y2="195.58" width="0.1524" layer="91"/>
+<junction x="160.02" y="195.58"/>
+</segment>
+<segment>
+<pinref part="D1" gate="G$1" pin="A"/>
+<pinref part="JP1" gate="G$1" pin="1"/>
+<wire x1="-50.8" y1="30.48" x2="-45.72" y2="30.48" width="0.1524" layer="91"/>
+<wire x1="-45.72" y1="30.48" x2="-40.64" y2="30.48" width="0.1524" layer="91"/>
+<wire x1="-45.72" y1="30.48" x2="-45.72" y2="35.56" width="0.1524" layer="91"/>
+<pinref part="P+6" gate="1" pin="+12V"/>
 </segment>
 </net>
 </nets>
