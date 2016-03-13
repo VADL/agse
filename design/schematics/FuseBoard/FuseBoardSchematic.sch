@@ -1151,6 +1151,46 @@ Source: http://ecb.omron.com.sg/pdf/relay/power/G6D.pdf</description>
 </deviceset>
 </devicesets>
 </library>
+<library name="SparkFun-Electromechanical">
+<description>&lt;h3&gt;SparkFun Electronics' preferred foot prints&lt;/h3&gt;
+In this library you'll find anything that moves- switches, relays, buttons, potentiometers. Also, anything that goes on a board but isn't electrical in nature- screws, standoffs, etc.&lt;br&gt;&lt;br&gt;
+We've spent an enormous amount of time creating and checking these footprints and parts, but it is the end user's responsibility to ensure correctness and suitablity for a given componet or application. If you enjoy using this library, please buy one of our products at www.sparkfun.com.
+&lt;br&gt;&lt;br&gt;
+&lt;b&gt;Licensing:&lt;/b&gt; Creative Commons ShareAlike 4.0 International - https://creativecommons.org/licenses/by-sa/4.0/ 
+&lt;br&gt;&lt;br&gt;
+You are welcome to use this library for commercial purposes. For attribution, we ask that when you begin to sell your device using our footprint, you email us with a link to the product being sold. We want bragging rights that we helped (in a very small part) to create your 8th world wonder. We would like the opportunity to feature your device on our homepage.</description>
+<packages>
+<package name="STANDOFF-ELECTRICAL">
+<pad name="P1" x="0" y="0" drill="3.2" diameter="6.35"/>
+</package>
+</packages>
+<symbols>
+<symbol name="STANDOFF_ELECTRICAL">
+<pin name="P$1" x="7.62" y="0" visible="off" length="short" rot="R180"/>
+<circle x="0" y="0" radius="5.08" width="0.254" layer="94"/>
+<text x="-2.54" y="5.842" size="1.27" layer="95">&gt;NAME</text>
+</symbol>
+</symbols>
+<devicesets>
+<deviceset name="STANDOFF_ELECTRICAL" prefix="S">
+<description>A standoff intended to be an electrically connected point.&lt;br&gt;
+Pad size and stop size allow for a #4 Phillips pan screw head to make a solid connection to the board.</description>
+<gates>
+<gate name="G$1" symbol="STANDOFF_ELECTRICAL" x="0" y="0"/>
+</gates>
+<devices>
+<device name="" package="STANDOFF-ELECTRICAL">
+<connects>
+<connect gate="G$1" pin="P$1" pad="P1"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+</devicesets>
+</library>
 </libraries>
 <attributes>
 </attributes>
@@ -1175,6 +1215,10 @@ Source: http://ecb.omron.com.sg/pdf/relay/power/G6D.pdf</description>
 <part name="MOTOR_FUSE" library="fuse" deviceset="SH22,5A" device="" value="2A"/>
 <part name="JETSON_FUSE" library="fuse" deviceset="SH22,5A" device="" value="2A"/>
 <part name="UIP_FUSE" library="fuse" deviceset="SH22,5A" device="" value="2A"/>
+<part name="S1" library="SparkFun-Electromechanical" deviceset="STANDOFF_ELECTRICAL" device=""/>
+<part name="S2" library="SparkFun-Electromechanical" deviceset="STANDOFF_ELECTRICAL" device=""/>
+<part name="S3" library="SparkFun-Electromechanical" deviceset="STANDOFF_ELECTRICAL" device=""/>
+<part name="S4" library="SparkFun-Electromechanical" deviceset="STANDOFF_ELECTRICAL" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -1198,6 +1242,7 @@ Board Mounting:
 <text x="381" y="190.5" size="3.81" layer="91">Power Out:</text>
 <text x="134.62" y="190.5" size="3.81" layer="91">Power Control:</text>
 <text x="261.62" y="190.5" size="3.81" layer="91">Fuses:</text>
+<text x="360.68" y="45.72" size="3.81" layer="91">4-40 Standoffs:</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
@@ -1216,6 +1261,10 @@ Board Mounting:
 <instance part="MOTOR_FUSE" gate="1" x="269.24" y="175.26"/>
 <instance part="JETSON_FUSE" gate="1" x="269.24" y="167.64"/>
 <instance part="UIP_FUSE" gate="1" x="269.24" y="160.02"/>
+<instance part="S1" gate="G$1" x="347.98" y="25.4"/>
+<instance part="S2" gate="G$1" x="368.3" y="25.4"/>
+<instance part="S3" gate="G$1" x="388.62" y="25.4"/>
+<instance part="S4" gate="G$1" x="408.94" y="25.4"/>
 </instances>
 <busses>
 </busses>

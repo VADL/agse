@@ -865,24 +865,25 @@ will be further integrated into the Sparkfun Library for other footprints.  It c
 <part name="FRAME1" library="SparkFun-Aesthetics" deviceset="FRAME-LEDGER" device=""/>
 <part name="BATTERY_IN" library="SparkFun-Connectors" deviceset="M02" device="POLAR"/>
 <part name="MOTOR_CONTROLLER" library="SparkFun-Connectors" deviceset="M02" device="POLAR"/>
-<part name="JP3" library="SparkFun-Connectors" deviceset="M02" device="POLAR"/>
-<part name="JP4" library="SparkFun-Connectors" deviceset="M02" device="POLAR"/>
-<part name="JP5" library="SparkFun-Connectors" deviceset="M02" device="POLAR"/>
+<part name="ETHERNET_SWITCH" library="SparkFun-Connectors" deviceset="M02" device="POLAR"/>
+<part name="JETSON" library="SparkFun-Connectors" deviceset="M02" device="POLAR"/>
+<part name="UIP" library="SparkFun-Connectors" deviceset="M02" device="POLAR"/>
 </parts>
 <sheets>
 <sheet>
 <plain>
-<text x="353.06" y="7.62" size="5.08" layer="94">Dexter Watkins</text>
-<text x="424.18" y="7.62" size="3.81" layer="94">A</text>
+<text x="17.78" y="7.62" size="5.08" layer="94">Dexter Watkins</text>
+<text x="93.98" y="7.62" size="3.81" layer="94">A</text>
+<text x="2.54" y="269.24" size="6.4516" layer="91">Fuse Board</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
-<instance part="FRAME1" gate="G$2" x="330.2" y="0"/>
-<instance part="BATTERY_IN" gate="G$1" x="73.66" y="195.58"/>
-<instance part="MOTOR_CONTROLLER" gate="G$1" x="284.48" y="200.66" rot="R180"/>
-<instance part="JP3" gate="G$1" x="284.48" y="175.26" rot="R180"/>
-<instance part="JP4" gate="G$1" x="284.48" y="154.94" rot="R180"/>
-<instance part="JP5" gate="G$1" x="284.48" y="129.54" rot="R180"/>
+<instance part="FRAME1" gate="G$2" x="0" y="0"/>
+<instance part="BATTERY_IN" gate="G$1" x="53.34" y="149.86"/>
+<instance part="MOTOR_CONTROLLER" gate="G$1" x="281.94" y="195.58"/>
+<instance part="ETHERNET_SWITCH" gate="G$1" x="281.94" y="175.26"/>
+<instance part="JETSON" gate="G$1" x="281.94" y="154.94"/>
+<instance part="UIP" gate="G$1" x="281.94" y="137.16"/>
 </instances>
 <busses>
 </busses>

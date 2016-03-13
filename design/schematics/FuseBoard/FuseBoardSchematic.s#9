@@ -214,7 +214,8 @@ Standard 11x14 US Ledger frame</description>
 <sheets>
 <sheet>
 <plain>
-<text x="353.06" y="7.62" size="1.778" layer="91">Dexter Watkins</text>
+<text x="353.06" y="7.62" size="5.08" layer="94">Dexter Watkins</text>
+<text x="424.18" y="7.62" size="3.81" layer="94">A</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>

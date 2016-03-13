@@ -868,13 +868,27 @@ will be further integrated into the Sparkfun Library for other footprints.  It c
 <part name="ETHERNET_SWITCH" library="SparkFun-Connectors" deviceset="M02" device="POLAR"/>
 <part name="JETSON" library="SparkFun-Connectors" deviceset="M02" device="POLAR"/>
 <part name="UIP" library="SparkFun-Connectors" deviceset="M02" device="POLAR"/>
+<part name="POWER_SWITCH" library="SparkFun-Connectors" deviceset="M02" device="POLAR"/>
 </parts>
 <sheets>
 <sheet>
 <plain>
 <text x="17.78" y="7.62" size="5.08" layer="94">Dexter Watkins</text>
 <text x="93.98" y="7.62" size="3.81" layer="94">A</text>
-<text x="2.54" y="269.24" size="6.4516" layer="91">Fuse Board</text>
+<text x="2.54" y="261.62" size="6.4516" layer="91">Vanderbilt Aerospace Design Lab:
+AGSE Fuse Board</text>
+<text x="2.54" y="259.08" size="2.54" layer="91" align="top-left">This schematic contains the power protection circuitry for the AGSE system.  
+
+Board Functions:
+1. Accepts power from either the wall or  batteries
+2. Power On/Off control via pluggable switch
+3. A TODO Amp fuse to the motor control boards
+4. A TODO Amp fuse to the jetson
+5. A TODO Amp fuse to the UIP
+
+Board Mounting:
+TODO</text>
+<text x="40.64" y="167.64" size="1.778" layer="91">Inputs</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
@@ -884,6 +898,7 @@ will be further integrated into the Sparkfun Library for other footprints.  It c
 <instance part="ETHERNET_SWITCH" gate="G$1" x="281.94" y="175.26"/>
 <instance part="JETSON" gate="G$1" x="281.94" y="154.94"/>
 <instance part="UIP" gate="G$1" x="281.94" y="137.16"/>
+<instance part="POWER_SWITCH" gate="G$1" x="53.34" y="127"/>
 </instances>
 <busses>
 </busses>
@@ -893,4 +908,10 @@ will be further integrated into the Sparkfun Library for other footprints.  It c
 </sheets>
 </schematic>
 </drawing>
+<compatibility>
+<note version="6.3" minversion="6.2.2" severity="warning">
+Since Version 6.2.2 text objects can contain more than one line,
+which will not be processed correctly with this version.
+</note>
+</compatibility>
 </eagle>

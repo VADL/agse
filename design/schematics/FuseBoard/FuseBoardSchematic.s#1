@@ -1170,7 +1170,7 @@ Source: http://ecb.omron.com.sg/pdf/relay/power/G6D.pdf</description>
 <part name="POWER_SWITCH" library="SparkFun-Connectors" deviceset="M02" device="POLAR"/>
 <part name="GND1" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="GND2" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
-<part name="POWER_RELAY" library="relay" deviceset="G6D?*" device="-04P" value="G6D-04P"/>
+<part name="POWER_RELAY_12V_COIL" library="relay" deviceset="G6D?*" device="-04P" value="G6D-04P"/>
 <part name="GND3" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="MOTOR_FUSE" library="fuse" deviceset="SH22,5A" device="" value="2A"/>
 <part name="JETSON_FUSE" library="fuse" deviceset="SH22,5A" device="" value="2A"/>
@@ -1210,8 +1210,8 @@ Board Mounting:
 <instance part="POWER_SWITCH" gate="G$1" x="134.62" y="165.1"/>
 <instance part="GND1" gate="1" x="396.24" y="109.22"/>
 <instance part="GND2" gate="1" x="43.18" y="162.56"/>
-<instance part="POWER_RELAY" gate="1" x="149.86" y="149.86"/>
-<instance part="POWER_RELAY" gate="2" x="147.32" y="180.34" rot="R270"/>
+<instance part="POWER_RELAY_12V_COIL" gate="1" x="149.86" y="149.86"/>
+<instance part="POWER_RELAY_12V_COIL" gate="2" x="147.32" y="180.34" rot="R270"/>
 <instance part="GND3" gate="1" x="149.86" y="129.54"/>
 <instance part="MOTOR_FUSE" gate="1" x="269.24" y="175.26"/>
 <instance part="JETSON_FUSE" gate="1" x="269.24" y="167.64"/>
@@ -1227,7 +1227,7 @@ Board Mounting:
 <label x="48.26" y="175.26" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="POWER_RELAY" gate="2" pin="P"/>
+<pinref part="POWER_RELAY_12V_COIL" gate="2" pin="P"/>
 <wire x1="142.24" y1="180.34" x2="134.62" y2="180.34" width="0.1524" layer="91"/>
 <label x="132.08" y="177.8" size="1.778" layer="95"/>
 </segment>
@@ -1299,14 +1299,14 @@ Board Mounting:
 <wire x1="396.24" y1="160.02" x2="396.24" y2="180.34" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="POWER_RELAY" gate="1" pin="2"/>
+<pinref part="POWER_RELAY_12V_COIL" gate="1" pin="2"/>
 <pinref part="GND3" gate="1" pin="GND"/>
 <wire x1="149.86" y1="132.08" x2="149.86" y2="144.78" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="12V_NO_FUSE" class="0">
 <segment>
-<pinref part="POWER_RELAY" gate="2" pin="S"/>
+<pinref part="POWER_RELAY_12V_COIL" gate="2" pin="S"/>
 <wire x1="152.4" y1="180.34" x2="160.02" y2="180.34" width="0.1524" layer="91"/>
 <label x="157.48" y="177.8" size="1.778" layer="95"/>
 </segment>
@@ -1334,7 +1334,7 @@ Board Mounting:
 <segment>
 <pinref part="POWER_SWITCH" gate="G$1" pin="1"/>
 <wire x1="149.86" y1="165.1" x2="142.24" y2="165.1" width="0.1524" layer="91"/>
-<pinref part="POWER_RELAY" gate="1" pin="1"/>
+<pinref part="POWER_RELAY_12V_COIL" gate="1" pin="1"/>
 <wire x1="149.86" y1="165.1" x2="149.86" y2="154.94" width="0.1524" layer="91"/>
 </segment>
 </net>
