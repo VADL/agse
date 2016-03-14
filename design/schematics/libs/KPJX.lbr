@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="5" unitdist="mil" unit="mm" style="lines" multiple="1" display="yes" altdistance="0.025" altunitdist="inch" altunit="inch"/>
+<grid distance="0.1" unitdist="mm" unit="mm" style="lines" multiple="1" display="yes" altdistance="0.025" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="yes"/>
@@ -69,6 +69,16 @@
 <pad name="P$9" x="-7.8" y="-5" drill="2.7"/>
 <pad name="P$10" x="7.8" y="-5" drill="2.7"/>
 <pad name="P$11" x="0" y="5.5" drill="2.2"/>
+<wire x1="-6.5" y1="11" x2="6.5" y2="11" width="0.127" layer="51"/>
+<wire x1="6.5" y1="11" x2="6.5" y2="7" width="0.127" layer="51"/>
+<wire x1="6.5" y1="7" x2="8" y2="7" width="0.127" layer="51"/>
+<wire x1="8" y1="7" x2="8" y2="-6.4" width="0.127" layer="51"/>
+<wire x1="8" y1="-6.4" x2="-8" y2="-6.4" width="0.127" layer="51"/>
+<wire x1="-8" y1="-6.4" x2="-8" y2="7" width="0.127" layer="51"/>
+<wire x1="-8" y1="7" x2="-6.5" y2="7" width="0.127" layer="51"/>
+<wire x1="-6.5" y1="7" x2="-6.5" y2="11" width="0.127" layer="51"/>
+<text x="0" y="10.8" size="1.27" layer="25" align="top-center">&gt;NAME</text>
+<text x="0" y="9.4" size="1.27" layer="27" align="top-center">&gt;VALUE</text>
 </package>
 </packages>
 <symbols>
