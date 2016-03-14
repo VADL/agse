@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.5.0">
+<eagle version="7.2.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.025" altunitdist="inch" altunit="inch"/>
+<grid distance="0.1" unitdist="mm" unit="mm" style="lines" multiple="1" display="yes" altdistance="0.025" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="yes"/>
@@ -62,10 +62,10 @@
 <pad name="P$2" x="7.8" y="3.5" drill="2.2"/>
 <pad name="P$3" x="-2.5" y="3.5" drill="1.7"/>
 <pad name="P$4" x="2.5" y="3.5" drill="1.7"/>
-<pad name="4" x="-2.5" y="0" drill="2.7" diameter="2.9"/>
-<pad name="3" x="2.5" y="0" drill="2.7" diameter="2.9"/>
-<pad name="2" x="-2.9" y="-3.65" drill="2.7" diameter="2.9"/>
-<pad name="1" x="2.9" y="-3.65" drill="2.7" diameter="2.9"/>
+<pad name="4" x="-2.5" y="0" drill="2.7" diameter="3.4"/>
+<pad name="3" x="2.5" y="0" drill="2.7" diameter="3.4"/>
+<pad name="2" x="-2.9" y="-3.65" drill="2.7" diameter="3.4"/>
+<pad name="1" x="2.9" y="-3.65" drill="2.7" diameter="3.4"/>
 <pad name="P$9" x="-7.8" y="-5" drill="2.7"/>
 <pad name="P$10" x="7.8" y="-5" drill="2.7"/>
 <pad name="P$11" x="0" y="5.5" drill="2.2"/>
@@ -74,7 +74,7 @@
 <wire x1="6.5" y1="7" x2="8" y2="7" width="0.127" layer="51"/>
 <wire x1="8" y1="7" x2="8" y2="-6.4" width="0.127" layer="51"/>
 <wire x1="8" y1="-6.4" x2="-8" y2="-6.4" width="0.127" layer="51"/>
-<wire x1="-8" y1="-6.4" x2="-8" y2="7" width="0.127" layer="21"/>
+<wire x1="-8" y1="-6.4" x2="-8" y2="7" width="0.127" layer="51"/>
 <wire x1="-8" y1="7" x2="-6.5" y2="7" width="0.127" layer="51"/>
 <wire x1="-6.5" y1="7" x2="-6.5" y2="11" width="0.127" layer="51"/>
 <text x="0" y="10.8" size="1.27" layer="25" align="top-center">&gt;NAME</text>

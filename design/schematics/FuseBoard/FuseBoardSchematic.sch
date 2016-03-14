@@ -1191,6 +1191,68 @@ Pad size and stop size allow for a #4 Phillips pan screw head to make a solid co
 </deviceset>
 </devicesets>
 </library>
+<library name="KPJX">
+<packages>
+<package name="KPJX-4S-S">
+<pad name="SHLD" x="-7.8" y="3.5" drill="2.2"/>
+<pad name="P$2" x="7.8" y="3.5" drill="2.2"/>
+<pad name="P$3" x="-2.5" y="3.5" drill="1.7"/>
+<pad name="P$4" x="2.5" y="3.5" drill="1.7"/>
+<pad name="4" x="-2.5" y="0" drill="2.7" diameter="2.9"/>
+<pad name="3" x="2.5" y="0" drill="2.7" diameter="2.9"/>
+<pad name="2" x="-2.9" y="-3.65" drill="2.7" diameter="2.9"/>
+<pad name="1" x="2.9" y="-3.65" drill="2.7" diameter="2.9"/>
+<pad name="P$9" x="-7.8" y="-5" drill="2.7"/>
+<pad name="P$10" x="7.8" y="-5" drill="2.7"/>
+<pad name="P$11" x="0" y="5.5" drill="2.2"/>
+<wire x1="-6.5" y1="11" x2="6.5" y2="11" width="0.127" layer="51"/>
+<wire x1="6.5" y1="11" x2="6.5" y2="7" width="0.127" layer="51"/>
+<wire x1="6.5" y1="7" x2="8" y2="7" width="0.127" layer="51"/>
+<wire x1="8" y1="7" x2="8" y2="-6.4" width="0.127" layer="51"/>
+<wire x1="8" y1="-6.4" x2="-8" y2="-6.4" width="0.127" layer="51"/>
+<wire x1="-8" y1="-6.4" x2="-8" y2="7" width="0.127" layer="21"/>
+<wire x1="-8" y1="7" x2="-6.5" y2="7" width="0.127" layer="51"/>
+<wire x1="-6.5" y1="7" x2="-6.5" y2="11" width="0.127" layer="51"/>
+<text x="0" y="10.8" size="1.27" layer="25" align="top-center">&gt;NAME</text>
+<text x="0" y="9.4" size="1.27" layer="27" align="top-center">&gt;VALUE</text>
+</package>
+</packages>
+<symbols>
+<symbol name="KPJX-4S">
+<pin name="1" x="-10.16" y="2.54" length="middle"/>
+<pin name="2" x="-10.16" y="0" length="middle"/>
+<pin name="3" x="-10.16" y="-2.54" length="middle"/>
+<pin name="4" x="-10.16" y="-5.08" length="middle"/>
+<wire x1="-5.08" y1="5.08" x2="7.62" y2="5.08" width="0.254" layer="94"/>
+<wire x1="7.62" y1="5.08" x2="7.62" y2="-10.16" width="0.254" layer="94"/>
+<wire x1="7.62" y1="-10.16" x2="-5.08" y2="-10.16" width="0.254" layer="94"/>
+<wire x1="-5.08" y1="-10.16" x2="-5.08" y2="5.08" width="0.254" layer="94"/>
+<text x="-2.54" y="5.08" size="1.778" layer="94">&gt;NAME</text>
+<pin name="SHLD" x="-10.16" y="-7.62" length="middle"/>
+</symbol>
+</symbols>
+<devicesets>
+<deviceset name="KPJX-4S-S">
+<gates>
+<gate name="G$1" symbol="KPJX-4S" x="0" y="2.54"/>
+</gates>
+<devices>
+<device name="" package="KPJX-4S-S">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+<connect gate="G$1" pin="3" pad="3"/>
+<connect gate="G$1" pin="4" pad="4"/>
+<connect gate="G$1" pin="SHLD" pad="P$2 P$3 P$4 P$9 P$10 P$11 SHLD"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+</devicesets>
+</library>
 </libraries>
 <attributes>
 </attributes>
@@ -1219,6 +1281,8 @@ Pad size and stop size allow for a #4 Phillips pan screw head to make a solid co
 <part name="S2" library="SparkFun-Electromechanical" deviceset="STANDOFF_ELECTRICAL" device=""/>
 <part name="S3" library="SparkFun-Electromechanical" deviceset="STANDOFF_ELECTRICAL" device=""/>
 <part name="S4" library="SparkFun-Electromechanical" deviceset="STANDOFF_ELECTRICAL" device=""/>
+<part name="WALL_IN" library="KPJX" deviceset="KPJX-4S-S" device=""/>
+<part name="GND4" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -1265,6 +1329,10 @@ Board Mounting:
 <instance part="S2" gate="G$1" x="368.3" y="25.4"/>
 <instance part="S3" gate="G$1" x="388.62" y="25.4"/>
 <instance part="S4" gate="G$1" x="408.94" y="25.4"/>
+<instance part="WALL_IN" gate="G$1" x="33.02" y="137.16" smashed="yes" rot="R180">
+<attribute name="NAME" x="35.56" y="132.08" size="1.778" layer="95" rot="R180"/>
+</instance>
+<instance part="GND4" gate="1" x="45.72" y="124.46"/>
 </instances>
 <busses>
 </busses>
@@ -1284,6 +1352,16 @@ Board Mounting:
 <pinref part="POWER_SWITCH" gate="G$1" pin="1"/>
 <wire x1="142.24" y1="165.1" x2="162.56" y2="165.1" width="0.1524" layer="91"/>
 <label x="162.56" y="165.1" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="WALL_IN" gate="G$1" pin="4"/>
+<wire x1="43.18" y1="142.24" x2="50.8" y2="142.24" width="0.1524" layer="91"/>
+<wire x1="50.8" y1="142.24" x2="50.8" y2="134.62" width="0.1524" layer="91"/>
+<pinref part="WALL_IN" gate="G$1" pin="1"/>
+<wire x1="43.18" y1="134.62" x2="50.8" y2="134.62" width="0.1524" layer="91"/>
+<wire x1="50.8" y1="134.62" x2="58.42" y2="134.62" width="0.1524" layer="91"/>
+<junction x="50.8" y="134.62"/>
+<label x="58.42" y="134.62" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="MOTOR_12V" class="0">
@@ -1352,6 +1430,16 @@ Board Mounting:
 <pinref part="GND3" gate="1" pin="GND"/>
 <wire x1="149.86" y1="132.08" x2="149.86" y2="144.78" width="0.1524" layer="91"/>
 </segment>
+<segment>
+<pinref part="WALL_IN" gate="G$1" pin="3"/>
+<wire x1="43.18" y1="139.7" x2="45.72" y2="139.7" width="0.1524" layer="91"/>
+<pinref part="WALL_IN" gate="G$1" pin="2"/>
+<wire x1="43.18" y1="137.16" x2="45.72" y2="137.16" width="0.1524" layer="91"/>
+<wire x1="45.72" y1="137.16" x2="45.72" y2="139.7" width="0.1524" layer="91"/>
+<wire x1="45.72" y1="137.16" x2="45.72" y2="127" width="0.1524" layer="91"/>
+<junction x="45.72" y="137.16"/>
+<pinref part="GND4" gate="1" pin="GND"/>
+</segment>
 </net>
 <net name="12V_NO_FUSE" class="0">
 <segment>
@@ -1390,6 +1478,12 @@ Board Mounting:
 </nets>
 </sheet>
 </sheets>
+<errors>
+<approved hash="101,1,355.6,25.4,S1,P$1,,,,"/>
+<approved hash="101,1,375.92,25.4,S2,P$1,,,,"/>
+<approved hash="101,1,396.24,25.4,S3,P$1,,,,"/>
+<approved hash="101,1,416.56,25.4,S4,P$1,,,,"/>
+</errors>
 </schematic>
 </drawing>
 <compatibility>

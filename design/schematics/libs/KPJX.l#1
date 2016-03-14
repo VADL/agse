@@ -62,10 +62,10 @@
 <pad name="P$2" x="7.8" y="3.5" drill="2.2"/>
 <pad name="P$3" x="-2.5" y="3.5" drill="1.7"/>
 <pad name="P$4" x="2.5" y="3.5" drill="1.7"/>
-<pad name="4" x="-2.5" y="0" drill="2.7" diameter="2.9"/>
-<pad name="3" x="2.5" y="0" drill="2.7" diameter="2.9"/>
-<pad name="2" x="-2.9" y="-3.65" drill="2.7" diameter="2.9"/>
-<pad name="1" x="2.9" y="-3.65" drill="2.7" diameter="2.9"/>
+<pad name="4" x="-2.5" y="0" drill="2.7" diameter="3.2"/>
+<pad name="3" x="2.5" y="0" drill="2.7" diameter="3.2"/>
+<pad name="2" x="-2.9" y="-3.65" drill="2.7" diameter="3.2"/>
+<pad name="1" x="2.9" y="-3.65" drill="2.7" diameter="3.2"/>
 <pad name="P$9" x="-7.8" y="-5" drill="2.7"/>
 <pad name="P$10" x="7.8" y="-5" drill="2.7"/>
 <pad name="P$11" x="0" y="5.5" drill="2.2"/>
