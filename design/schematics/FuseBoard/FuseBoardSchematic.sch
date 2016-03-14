@@ -1212,7 +1212,7 @@ Pad size and stop size allow for a #4 Phillips pan screw head to make a solid co
 <part name="GND2" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="POWER_RELAY_12V_COIL" library="relay" deviceset="G6D?*" device="-04P" value="G6D-04P"/>
 <part name="GND3" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
-<part name="MOTOR_FUSE" library="fuse" deviceset="SH22,5A" device="" value="2A"/>
+<part name="MOTOR_FUSE" library="fuse" deviceset="SH22,5A" device="" value="3A"/>
 <part name="JETSON_FUSE" library="fuse" deviceset="SH22,5A" device="" value="2A"/>
 <part name="UIP_FUSE" library="fuse" deviceset="SH22,5A" device="" value="2A"/>
 <part name="S1" library="SparkFun-Electromechanical" deviceset="STANDOFF_ELECTRICAL" device=""/>
@@ -1232,12 +1232,12 @@ AGSE Fuse Board</text>
 Board Functions:
 1. Accepts power from either the wall or  batteries
 2. Power On/Off control via pluggable switch
-3. A TODO Amp fuse to the motor control boards
-4. A TODO Amp fuse to the jetson
-5. A TODO Amp fuse to the UIP
+3. A 3 Amp fuse to the motor control boards
+4. A 2 Amp fuse to the jetson
+5. A 2 Amp fuse to the UIP
 
 Board Mounting:
-4-40 Standoffs in the corners and center</text>
+4-40 Standoffs in the corners</text>
 <text x="27.94" y="190.5" size="3.81" layer="91">Power In:</text>
 <text x="381" y="190.5" size="3.81" layer="91">Power Out:</text>
 <text x="134.62" y="190.5" size="3.81" layer="91">Power Control:</text>

@@ -527,7 +527,7 @@ design rules under a new name.</description>
 <attribute name="MPN" value="" x="20.32" y="26.67" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="OC_NEWARK" value="unknown" x="20.32" y="26.67" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
-<element name="MOTOR_FUSE" library="fuse" package="SH22,5A" value="2A" x="41.91" y="43.18" smashed="yes">
+<element name="MOTOR_FUSE" library="fuse" package="SH22,5A" value="3A" x="41.91" y="43.18" smashed="yes">
 <attribute name="OC_FARNELL" value="unknown" x="41.91" y="43.18" size="1.778" layer="27" display="off"/>
 <attribute name="MF" value="" x="41.91" y="43.18" size="1.778" layer="27" display="off"/>
 <attribute name="MPN" value="0031.7701.11" x="41.91" y="43.18" size="1.778" layer="27" display="off"/>
