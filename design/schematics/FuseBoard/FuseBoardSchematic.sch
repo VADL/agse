@@ -1281,9 +1281,9 @@ Board Mounting:
 <label x="132.08" y="177.8" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="POWER_SWITCH" gate="G$1" pin="2"/>
-<wire x1="142.24" y1="167.64" x2="160.02" y2="167.64" width="0.1524" layer="91"/>
-<label x="157.48" y="165.1" size="1.778" layer="95"/>
+<pinref part="POWER_SWITCH" gate="G$1" pin="1"/>
+<wire x1="142.24" y1="165.1" x2="162.56" y2="165.1" width="0.1524" layer="91"/>
+<label x="162.56" y="165.1" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="MOTOR_12V" class="0">
@@ -1381,10 +1381,10 @@ Board Mounting:
 </net>
 <net name="N$2" class="0">
 <segment>
-<pinref part="POWER_SWITCH" gate="G$1" pin="1"/>
-<wire x1="149.86" y1="165.1" x2="142.24" y2="165.1" width="0.1524" layer="91"/>
 <pinref part="POWER_RELAY_12V_COIL" gate="1" pin="1"/>
-<wire x1="149.86" y1="165.1" x2="149.86" y2="154.94" width="0.1524" layer="91"/>
+<wire x1="149.86" y1="167.64" x2="149.86" y2="154.94" width="0.1524" layer="91"/>
+<pinref part="POWER_SWITCH" gate="G$1" pin="2"/>
+<wire x1="149.86" y1="167.64" x2="142.24" y2="167.64" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>
