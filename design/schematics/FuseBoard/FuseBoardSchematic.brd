@@ -152,6 +152,8 @@
 <text x="68.58" y="36.83" size="2.54" layer="21" rot="MR0">+</text>
 <text x="12.7" y="50.8" size="1.27" layer="21" font="vector">Vanderbilt University Aerospace Design Lab
 AGSE Fuse Board: Rev A 2017-3-13</text>
+<dimension x1="0" y1="0" x2="0" y2="54.61" x3="-10.16" y3="27.305" textsize="1.778" layer="20"/>
+<dimension x1="0" y1="54.61" x2="69.85" y2="54.61" x3="34.925" y3="58.42" textsize="1.778" layer="20"/>
 </plain>
 <libraries>
 <library name="SparkFun-Aesthetics">
