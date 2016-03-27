@@ -1,0 +1,39 @@
+#!/bin/sh -e
+#
+# rc.local
+#
+# This script is executed at the end of each multiuser runlevel.
+# Make sure that the script will "exit 0" on success or any other
+# value on error.
+#
+# In order to enable or disable this script just change the execution
+# bits.
+#
+# By default this script does nothing.
+
+echo 86 > /sys/class/gpio/export
+echo out > /sys/class/gpio/gpio86/direction
+
+echo 87 > /sys/class/gpio/export
+echo out > /sys/class/gpio/gpio87/direction
+
+echo 88 > /sys/class/gpio/export
+echo out > /sys/class/gpio/gpio88/direction
+
+echo 89 > /sys/class/gpio/export
+echo out > /sys/class/gpio/gpio89/direction
+
+echo 72 > /sys/class/gpio/export
+echo in > /sys/class/gpio/gpio72/direction
+
+echo 73 > /sys/class/gpio/export
+echo in > /sys/class/gpio/gpio73/direction
+
+echo 74 > /sys/class/gpio/export
+echo in > /sys/class/gpio/gpio74/direction
+
+echo 75 > /sys/class/gpio/export
+echo in > /sys/class/gpio/gpio75/direction
+
+exit 0
+
