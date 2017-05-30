@@ -1,0 +1,4524 @@
+=================================================================
+ROSMOD::CPN::1468960732723821::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960732845499::Arm base servo angle: 19.976000
+
+ROSMOD::DEBUG::1468960732966542::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960733088170::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960733726566::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960733847601::Arm base servo angle: 19.976000
+
+ROSMOD::DEBUG::1468960733968368::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960734089098::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960734723006::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960734844179::Arm base servo angle: 19.976000
+
+ROSMOD::DEBUG::1468960734964981::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960735091419::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960735723119::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960735844436::Arm base servo angle: 19.976000
+
+ROSMOD::DEBUG::1468960735968224::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960736089327::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960736722589::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960736843805::Arm base servo angle: 19.976000
+
+ROSMOD::DEBUG::1468960736971012::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960737092114::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960737723377::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960737844476::Arm base servo angle: 19.888000
+
+ROSMOD::DEBUG::1468960737978485::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960738102957::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960738723570::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960739243441::Arm base servo angle: 19.976000
+
+ROSMOD::DEBUG::1468960739364730::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960739485652::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960739832022::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960739953778::Arm base servo angle: 19.976000
+
+ROSMOD::DEBUG::1468960740078643::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960740199921::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960740723619::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960740845722::Arm base servo angle: 19.976000
+
+ROSMOD::DEBUG::1468960740966693::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960741087591::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960741723414::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960741844369::Arm base servo angle: 19.976000
+
+ROSMOD::DEBUG::1468960741965236::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960742093732::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960742723151::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960742844121::Arm base servo angle: 19.976000
+
+ROSMOD::DEBUG::1468960742964977::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960743100035::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960743722939::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960743844238::Arm base servo angle: 19.976000
+
+ROSMOD::DEBUG::1468960743965267::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960744086207::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960744730634::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960744859100::Arm base servo angle: 19.976000
+
+ROSMOD::DEBUG::1468960744983038::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960745104139::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960745723082::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960745844040::Arm base servo angle: 19.976000
+
+ROSMOD::DEBUG::1468960745964858::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960746092422::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960746722665::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960746844479::Arm base servo angle: 19.976000
+
+ROSMOD::DEBUG::1468960746965459::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960747090634::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960747723189::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960747844336::Arm base servo angle: 19.976000
+
+ROSMOD::DEBUG::1468960747965202::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960748099966::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960748722655::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960748843835::Arm base servo angle: 19.976000
+
+ROSMOD::DEBUG::1468960748964732::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960749093374::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960749722659::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960749843770::Arm base servo angle: 19.976000
+
+ROSMOD::DEBUG::1468960749965124::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960750086983::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960750723858::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960750845717::Arm base servo angle: 19.976000
+
+ROSMOD::DEBUG::1468960750967016::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960751088226::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960751735008::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960751856851::Arm base servo angle: 19.976000
+
+ROSMOD::DEBUG::1468960751979917::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960752101491::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960752734834::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960752860562::Arm base servo angle: 19.976000
+
+ROSMOD::DEBUG::1468960752981365::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960753102306::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960753723450::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960754350057::Arm base servo angle: 19.976000
+
+ROSMOD::DEBUG::1468960754472711::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960754594210::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960754723171::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960754844792::Arm base servo angle: 19.976000
+
+ROSMOD::DEBUG::1468960754968901::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960755089979::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960755723848::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960755851214::Arm base servo angle: 19.976000
+
+ROSMOD::DEBUG::1468960755972565::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960756093498::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960756725795::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960756859528::Arm base servo angle: 19.976000
+
+ROSMOD::DEBUG::1468960756983510::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960757109356::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960757723269::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960757844793::Arm base servo angle: 19.976000
+
+ROSMOD::DEBUG::1468960757968816::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960758089952::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960758724404::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960758854093::Arm base servo angle: 19.976000
+
+ROSMOD::DEBUG::1468960758975095::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960759095975::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960759723545::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960759845279::Arm base servo angle: 19.976000
+
+ROSMOD::DEBUG::1468960759969176::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960760090086::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960760722854::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960760844572::Arm base servo angle: 19.976000
+
+ROSMOD::DEBUG::1468960760969233::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960761090277::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960761723579::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960761844827::Arm base servo angle: 19.976000
+
+ROSMOD::DEBUG::1468960761968823::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960762089779::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960762723612::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960762844734::Arm base servo angle: 19.976000
+
+ROSMOD::DEBUG::1468960762966146::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960763089170::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960763722818::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960763843952::Arm base servo angle: 19.976000
+
+ROSMOD::DEBUG::1468960763965156::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960764088870::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960764723603::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960764844680::Arm base servo angle: 19.976000
+
+ROSMOD::DEBUG::1468960764969604::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960765090485::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960765723622::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960765844637::Arm base servo angle: 19.976000
+
+ROSMOD::DEBUG::1468960765969214::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960766090164::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960766723779::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960766844764::Arm base servo angle: 20.327999
+
+ROSMOD::DEBUG::1468960766966237::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960767091006::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960767730801::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960767851733::Arm base servo angle: 20.063999
+
+ROSMOD::DEBUG::1468960767972829::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960768093678::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960768723778::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960768844767::Arm base servo angle: 19.888000
+
+ROSMOD::DEBUG::1468960768966042::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960769089260::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960769723569::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960769844839::Arm base servo angle: 19.888000
+
+ROSMOD::DEBUG::1468960769968968::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960770090047::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960770723635::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960770844736::Arm base servo angle: 19.888000
+
+ROSMOD::DEBUG::1468960770969617::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960771090540::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960771723421::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960771844487::Arm base servo angle: 19.888000
+
+ROSMOD::DEBUG::1468960771966151::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960772088835::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960772723095::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960772844436::Arm base servo angle: 19.888000
+
+ROSMOD::DEBUG::1468960772965525::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960773089852::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960773723666::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960773844671::Arm base servo angle: 19.888000
+
+ROSMOD::DEBUG::1468960773966034::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960774088795::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960774723828::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960774844747::Arm base servo angle: 19.976000
+
+ROSMOD::DEBUG::1468960774969444::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960775090477::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960775723642::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960775844697::Arm base servo angle: 19.976000
+
+ROSMOD::DEBUG::1468960775965564::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960776089140::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960776722774::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960776844666::Arm base servo angle: 19.976000
+
+ROSMOD::DEBUG::1468960776965982::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960777088974::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960777723190::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960777844635::Arm base servo angle: 19.976000
+
+ROSMOD::DEBUG::1468960777966071::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960778089182::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960778722429::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960779061620::Arm base servo angle: 19.976000
+
+ROSMOD::DEBUG::1468960779184109::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960779305096::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960779972849::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960780094649::Arm base servo angle: 19.976000
+
+ROSMOD::DEBUG::1468960780215662::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960780336695::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960780723242::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960780846892::Arm base servo angle: 19.976000
+
+ROSMOD::DEBUG::1468960780967821::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960781089155::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960781723408::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960781844399::Arm base servo angle: 19.976000
+
+ROSMOD::DEBUG::1468960781977839::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960782100654::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960782722852::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960782843770::Arm base servo angle: 19.976000
+
+ROSMOD::DEBUG::1468960782973699::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960783094995::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960783723585::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960784756510::Arm base servo angle: 19.976000
+
+ROSMOD::DEBUG::1468960784877444::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960784998344::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960785005393::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960785127936::Arm base servo angle: 19.976000
+
+ROSMOD::DEBUG::1468960785250996::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960785371940::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960785728008::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960785855473::Arm base servo angle: 19.976000
+
+ROSMOD::DEBUG::1468960785976837::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960786097674::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960786728770::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960786850671::Arm base servo angle: 19.976000
+
+ROSMOD::DEBUG::1468960786971773::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960787092802::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960787738811::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960787860431::Arm base servo angle: 19.976000
+
+ROSMOD::DEBUG::1468960787981323::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960788102181::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960788301765::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960788726174::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960788850880::Arm base servo angle: 14.432000
+
+ROSMOD::DEBUG::1468960788971903::Gripper rotation servo angle: 193.720001
+
+ROSMOD::DEBUG::1468960789092781::Gripper position servo angle: 200.970001
+
+ROSMOD::CPN::1468960789094510::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960789723394::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960789733313::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960789854304::Arm base servo angle: 0.088000
+
+ROSMOD::DEBUG::1468960789975231::Gripper rotation servo angle: 193.139999
+
+ROSMOD::DEBUG::1468960790096330::Gripper position servo angle: 248.819992
+
+ROSMOD::CPN::1468960790666345::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960790731763::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960790852650::Arm base servo angle: 0.176000
+
+ROSMOD::DEBUG::1468960790973547::Gripper rotation servo angle: 193.139999
+
+ROSMOD::DEBUG::1468960791094392::Gripper position servo angle: 248.819992
+
+ROSMOD::CPN::1468960791726893::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960791850688::Arm base servo angle: 360.447998
+
+ROSMOD::DEBUG::1468960791971784::Gripper rotation servo angle: 194.009995
+
+ROSMOD::DEBUG::1468960792092837::Gripper position servo angle: 247.079987
+
+ROSMOD::CPN::1468960792212391::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960792603629::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960792726268::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960792848760::Arm base servo angle: 0.000000
+
+ROSMOD::DEBUG::1468960792971770::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960793093181::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960793284513::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960793700764::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960793727492::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960793851303::Arm base servo angle: 0.088000
+
+ROSMOD::DEBUG::1468960793972156::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960794093042::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960794726627::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960794861522::Arm base servo angle: 0.088000
+
+ROSMOD::DEBUG::1468960794982619::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960795106582::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960795108354::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960795417368::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960795727563::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960795851128::Arm base servo angle: 0.088000
+
+ROSMOD::DEBUG::1468960795972045::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960796092889::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960796294306::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960796702372::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960796726763::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960796851137::Arm base servo angle: 0.088000
+
+ROSMOD::DEBUG::1468960796972011::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960797093018::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960797663374::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960797728175::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960797850885::Arm base servo angle: 0.088000
+
+ROSMOD::DEBUG::1468960797971731::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960798092696::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960798726693::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960798852098::Arm base servo angle: 0.088000
+
+ROSMOD::DEBUG::1468960798973497::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960799094377::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960799096134::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960799441935::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960799727320::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960799851655::Arm base servo angle: 0.088000
+
+ROSMOD::DEBUG::1468960799972707::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960800093495::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960800095230::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960800503445::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960800729074::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960800851270::Arm base servo angle: 0.088000
+
+ROSMOD::DEBUG::1468960800972238::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960801093207::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960801300912::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960801727611::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960801851244::Arm base servo angle: 0.000000
+
+ROSMOD::DEBUG::1468960801972103::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960802093546::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960802095246::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960802727047::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960802850439::Arm base servo angle: 0.088000
+
+ROSMOD::DEBUG::1468960802971339::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960803092198::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960803093890::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960803723917::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960803733491::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960803854512::Arm base servo angle: 0.088000
+
+ROSMOD::DEBUG::1468960803975944::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960804097115::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960804736500::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960804857570::Arm base servo angle: 0.088000
+
+ROSMOD::DEBUG::1468960804978607::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960805099562::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960805101571::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960805502527::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960805726812::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960805852540::Arm base servo angle: 0.088000
+
+ROSMOD::DEBUG::1468960805973416::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960806094305::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960806300822::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960806702382::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960806727714::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960806851578::Arm base servo angle: 0.088000
+
+ROSMOD::DEBUG::1468960806972437::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960807093369::Gripper position servo angle: 199.809998
+
+ROSMOD::CPN::1468960807726248::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960807850572::Arm base servo angle: 0.088000
+
+ROSMOD::DEBUG::1468960807971833::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960808092738::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960808221021::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960808622330::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960808726767::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960808851296::Arm base servo angle: 0.088000
+
+ROSMOD::DEBUG::1468960808973939::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960809094794::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960809274596::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960810170461::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960810292027::Arm base servo angle: 0.088000
+
+ROSMOD::DEBUG::1468960810412811::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960810533504::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960810723062::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960810844057::Arm base servo angle: 0.088000
+
+ROSMOD::DEBUG::1468960810965013::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960811086003::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960811723777::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960811845811::Arm base servo angle: 0.088000
+
+ROSMOD::DEBUG::1468960811966739::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960812091314::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960812093136::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960812726893::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960812851604::Arm base servo angle: 0.088000
+
+ROSMOD::DEBUG::1468960812972758::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960813093933::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960813095720::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960813452203::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960813805907::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960813925456::Arm base servo angle: 0.088000
+
+ROSMOD::DEBUG::1468960814232405::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960814353538::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960814541647::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960814723631::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960814850869::Arm base servo angle: 0.088000
+
+ROSMOD::DEBUG::1468960814971803::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960815092713::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960815352871::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960815723428::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960815848434::Arm base servo angle: 0.088000
+
+ROSMOD::DEBUG::1468960815971732::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960816092635::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960816722834::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960816844401::Arm base servo angle: 0.088000
+
+ROSMOD::DEBUG::1468960816971243::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960817092183::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960817722851::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960817844355::Arm base servo angle: 0.088000
+
+ROSMOD::DEBUG::1468960817971009::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960818091970::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960818723853::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960818851112::Arm base servo angle: 0.088000
+
+ROSMOD::DEBUG::1468960818972048::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960819092951::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960819723791::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960819847843::Arm base servo angle: 0.088000
+
+ROSMOD::DEBUG::1468960819971327::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960820092279::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960820723536::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960820850898::Arm base servo angle: 0.088000
+
+ROSMOD::DEBUG::1468960820971732::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960821092649::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960821723869::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960821850916::Arm base servo angle: 0.088000
+
+ROSMOD::DEBUG::1468960821971747::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960822092730::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960822722849::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960822852592::Arm base servo angle: 0.088000
+
+ROSMOD::DEBUG::1468960822973747::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960823095129::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960823096916::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960823502189::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960823728260::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960823854329::Arm base servo angle: 5.544000
+
+ROSMOD::DEBUG::1468960823975445::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960824097851::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960824301794::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960824702579::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960824723710::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960824851115::Arm base servo angle: 15.664000
+
+ROSMOD::DEBUG::1468960824972108::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960825093036::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960825723527::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960825850869::Arm base servo angle: 15.488000
+
+ROSMOD::DEBUG::1468960825971909::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960826092840::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960826723776::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960826847556::Arm base servo angle: 15.136000
+
+ROSMOD::DEBUG::1468960826971252::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960827092173::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960827723591::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960827847587::Arm base servo angle: 15.048000
+
+ROSMOD::DEBUG::1468960827971381::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960828092569::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960828724190::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960828849040::Arm base servo angle: 14.960000
+
+ROSMOD::DEBUG::1468960828971493::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960829092443::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960829722766::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960829843641::Arm base servo angle: 14.960000
+
+ROSMOD::DEBUG::1468960829964361::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960830085086::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960830723521::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960830844550::Arm base servo angle: 14.960000
+
+ROSMOD::DEBUG::1468960830965390::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960831086048::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960831722417::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960831843342::Arm base servo angle: 14.960000
+
+ROSMOD::DEBUG::1468960831964236::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960832085104::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960832723567::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960832844520::Arm base servo angle: 14.960000
+
+ROSMOD::DEBUG::1468960832965466::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960833086516::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960833262574::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960833629117::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960833722858::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960833843882::Arm base servo angle: 20.152000
+
+ROSMOD::DEBUG::1468960833969803::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960834092117::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960834446631::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960834730540::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960834865651::Arm base servo angle: 30.535999
+
+ROSMOD::DEBUG::1468960834991239::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960835112625::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960835114537::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960835723479::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960835844471::Arm base servo angle: 30.360001
+
+ROSMOD::DEBUG::1468960835965501::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960836086747::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960836722581::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960836843502::Arm base servo angle: 30.184000
+
+ROSMOD::DEBUG::1468960836964634::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960837085693::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960837723494::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960837844461::Arm base servo angle: 30.007999
+
+ROSMOD::DEBUG::1468960837965537::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960838089816::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960838723091::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960838844183::Arm base servo angle: 29.920000
+
+ROSMOD::DEBUG::1468960838965191::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960839089912::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960839723164::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960839844117::Arm base servo angle: 29.920000
+
+ROSMOD::DEBUG::1468960839965136::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960840086416::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960840723145::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960840844266::Arm base servo angle: 29.920000
+
+ROSMOD::DEBUG::1468960840965274::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960841086594::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960841723542::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960841850231::Arm base servo angle: 29.920000
+
+ROSMOD::DEBUG::1468960841971588::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960842095847::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960842097646::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960842461774::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960842722621::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960842844087::Arm base servo angle: 35.112000
+
+ROSMOD::DEBUG::1468960842965017::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960843085991::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960843276332::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960843684733::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960843729904::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960843851173::Arm base servo angle: 46.023998
+
+ROSMOD::DEBUG::1468960843972641::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960844096801::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960844723070::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960844844051::Arm base servo angle: 45.408001
+
+ROSMOD::DEBUG::1468960844965252::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960845086825::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960845723334::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960845844299::Arm base servo angle: 45.056000
+
+ROSMOD::DEBUG::1468960845965203::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960846086664::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960846723615::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960846845314::Arm base servo angle: 44.880001
+
+ROSMOD::DEBUG::1468960846970307::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960847091358::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960847723505::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960847844452::Arm base servo angle: 44.880001
+
+ROSMOD::DEBUG::1468960847965523::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960848087032::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960848723019::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960848844023::Arm base servo angle: 44.880001
+
+ROSMOD::DEBUG::1468960848965010::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960849085998::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960849723589::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960849844911::Arm base servo angle: 44.880001
+
+ROSMOD::DEBUG::1468960849965792::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960850089792::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960850604422::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960850730541::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960850852178::Arm base servo angle: 50.071999
+
+ROSMOD::DEBUG::1468960850975563::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960851096469::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960851280249::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960851686222::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960851724109::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960851849529::Arm base servo angle: 61.160000
+
+ROSMOD::DEBUG::1468960851970777::Gripper rotation servo angle: 193.720001
+
+ROSMOD::DEBUG::1468960852091842::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960852723333::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960852844299::Arm base servo angle: 60.543999
+
+ROSMOD::DEBUG::1468960852965280::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960853087020::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960853723318::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960853844241::Arm base servo angle: 60.192001
+
+ROSMOD::DEBUG::1468960853965212::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960854086530::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960854723359::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960854844479::Arm base servo angle: 60.104000
+
+ROSMOD::DEBUG::1468960854965559::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960855089881::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960855723132::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960855844619::Arm base servo angle: 60.015999
+
+ROSMOD::DEBUG::1468960855965948::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960856090753::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960856722916::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960856843914::Arm base servo angle: 59.928001
+
+ROSMOD::DEBUG::1468960856964856::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960857089512::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960857723509::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960857844466::Arm base servo angle: 59.928001
+
+ROSMOD::DEBUG::1468960857965442::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960858089829::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960858722951::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960858843836::Arm base servo angle: 59.928001
+
+ROSMOD::DEBUG::1468960858964754::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960859094348::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960859124570::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960859723527::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960859844591::Arm base servo angle: 61.512001
+
+ROSMOD::DEBUG::1468960859965704::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960860090135::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960860723162::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960860844394::Arm base servo angle: 62.655998
+
+ROSMOD::DEBUG::1468960860965734::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960861090318::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960861722662::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960861843663::Arm base servo angle: 62.743999
+
+ROSMOD::DEBUG::1468960861964565::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960862085677::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960862723232::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960862844171::Arm base servo angle: 62.832001
+
+ROSMOD::DEBUG::1468960862965174::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960863086346::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960863723400::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960863844341::Arm base servo angle: 62.832001
+
+ROSMOD::DEBUG::1468960863965318::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960864090003::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960864723649::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960865212446::Arm base servo angle: 62.832001
+
+ROSMOD::DEBUG::1468960865333383::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960865454110::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960866459550::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960866580835::Arm base servo angle: 62.832001
+
+ROSMOD::DEBUG::1468960866702393::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960866823205::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960866825680::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960866946867::Arm base servo angle: 62.832001
+
+ROSMOD::DEBUG::1468960867067799::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960867188732::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960867723436::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960867844349::Arm base servo angle: 62.832001
+
+ROSMOD::DEBUG::1468960867965237::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960868089356::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960868115883::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960868723133::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960868844170::Arm base servo angle: 64.239998
+
+ROSMOD::DEBUG::1468960868965055::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960869085927::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960869723293::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960869990234::Arm base servo angle: 66.087997
+
+ROSMOD::DEBUG::1468960870111122::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960870232099::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960870726246::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960870849383::Arm base servo angle: 66.087997
+
+ROSMOD::DEBUG::1468960870970718::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960871091754::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960871725786::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960871846645::Arm base servo angle: 66.000000
+
+ROSMOD::DEBUG::1468960871969236::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960872090258::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960872725965::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960872850060::Arm base servo angle: 66.000000
+
+ROSMOD::DEBUG::1468960872971047::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960873091883::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960873725904::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960873849890::Arm base servo angle: 66.000000
+
+ROSMOD::DEBUG::1468960873970744::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960874091545::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960874725751::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960874849778::Arm base servo angle: 65.912003
+
+ROSMOD::DEBUG::1468960874970694::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960875091545::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960875725672::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960875849233::Arm base servo angle: 65.912003
+
+ROSMOD::DEBUG::1468960875970259::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960876091202::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960876725615::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960876850709::Arm base servo angle: 65.823997
+
+ROSMOD::DEBUG::1468960876971967::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960877092855::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960877094641::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960877501039::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960877732346::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960877853590::Arm base servo angle: 66.879997
+
+ROSMOD::DEBUG::1468960877974601::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960878095584::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960878300142::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960878702071::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960878727162::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960878849945::Arm base servo angle: 69.167999
+
+ROSMOD::DEBUG::1468960878970927::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960879091784::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960879726026::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960879850140::Arm base servo angle: 69.080002
+
+ROSMOD::DEBUG::1468960879971314::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960880092156::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960880182777::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960880725946::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960880850632::Arm base servo angle: 69.080002
+
+ROSMOD::DEBUG::1468960880971635::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960881092455::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960881725673::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960881849302::Arm base servo angle: 69.080002
+
+ROSMOD::DEBUG::1468960881970995::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960882091829::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960882725145::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960882848774::Arm base servo angle: 69.080002
+
+ROSMOD::DEBUG::1468960882969819::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960883091265::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960883725760::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960883849704::Arm base servo angle: 69.080002
+
+ROSMOD::DEBUG::1468960883970695::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960884091500::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960884723280::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960886770940::Arm base servo angle: 68.991997
+
+ROSMOD::DEBUG::1468960886894157::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960887015409::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960887018014::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960887138820::Arm base servo angle: 68.991997
+
+ROSMOD::DEBUG::1468960887259555::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960887383218::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960887384984::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960887757393::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960888017514::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960888141142::Arm base servo angle: 66.879997
+
+ROSMOD::DEBUG::1468960888262164::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960888383411::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960888586961::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960889017841::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960889138795::Arm base servo angle: 64.680000
+
+ROSMOD::DEBUG::1468960889259761::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960889380780::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960890017478::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960890141486::Arm base servo angle: 64.680000
+
+ROSMOD::DEBUG::1468960890263087::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960890386110::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960891017925::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960891142117::Arm base servo angle: 64.767998
+
+ROSMOD::DEBUG::1468960891266590::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960891387591::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960892017574::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960892141565::Arm base servo angle: 64.767998
+
+ROSMOD::DEBUG::1468960892266033::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960892387123::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960893017459::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960893142214::Arm base servo angle: 64.856003
+
+ROSMOD::DEBUG::1468960893266574::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960893387627::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960894016818::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960894137810::Arm base servo angle: 64.856003
+
+ROSMOD::DEBUG::1468960894262684::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960894384826::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960895017710::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960895141937::Arm base servo angle: 64.856003
+
+ROSMOD::DEBUG::1468960895265364::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960895386373::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960895891362::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960896021180::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960896146691::Arm base servo angle: 64.064003
+
+ROSMOD::DEBUG::1468960896267813::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960896389009::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960896578712::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960897016935::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960897137797::Arm base servo angle: 62.919998
+
+ROSMOD::DEBUG::1468960897261723::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960897385220::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960898017275::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960898138445::Arm base servo angle: 62.919998
+
+ROSMOD::DEBUG::1468960898262457::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960898386625::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960899017616::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960899142237::Arm base servo angle: 62.832001
+
+ROSMOD::DEBUG::1468960899266300::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960899387083::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960900016925::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960900137990::Arm base servo angle: 62.832001
+
+ROSMOD::DEBUG::1468960900262440::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960900385828::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960901016921::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960901137827::Arm base servo angle: 62.919998
+
+ROSMOD::DEBUG::1468960901262340::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960901385708::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960902018065::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960902142481::Arm base servo angle: 62.832001
+
+ROSMOD::DEBUG::1468960902266419::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960902387227::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960903017593::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960903141724::Arm base servo angle: 62.832001
+
+ROSMOD::DEBUG::1468960903263034::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960903386255::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960903976533::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960904022261::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960904146833::Arm base servo angle: 65.472000
+
+ROSMOD::DEBUG::1468960904267714::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960904388681::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960904698007::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960905017303::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960905139068::Arm base servo angle: 67.760002
+
+ROSMOD::DEBUG::1468960905262949::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960905386179::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960905858662::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960906021957::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960906146972::Arm base servo angle: 67.760002
+
+ROSMOD::DEBUG::1468960906267905::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960906388793::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960906576827::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960906977706::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960907022829::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960907145876::Arm base servo angle: 67.848000
+
+ROSMOD::DEBUG::1468960907266858::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960907387900::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960908018356::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960908139529::Arm base servo angle: 67.935997
+
+ROSMOD::DEBUG::1468960908260469::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960908381329::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960909018233::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960909139304::Arm base servo angle: 67.935997
+
+ROSMOD::DEBUG::1468960909260213::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960909381122::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960910018333::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960910139408::Arm base servo angle: 67.935997
+
+ROSMOD::DEBUG::1468960910260274::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960910381264::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960911018123::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960911139318::Arm base servo angle: 67.935997
+
+ROSMOD::DEBUG::1468960911260287::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960911381177::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960911692773::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960912028695::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960912031862::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960912154094::Arm base servo angle: 67.935997
+
+ROSMOD::DEBUG::1468960912278655::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960912399524::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960913018266::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960913139186::Arm base servo angle: 67.935997
+
+ROSMOD::DEBUG::1468960913260185::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960913381050::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960914017802::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960914139449::Arm base servo angle: 67.935997
+
+ROSMOD::DEBUG::1468960914260356::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960914381222::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960915017604::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960915324633::Arm base servo angle: 67.935997
+
+ROSMOD::DEBUG::1468960915445503::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960915566335::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960916017609::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960916138710::Arm base servo angle: 67.935997
+
+ROSMOD::DEBUG::1468960916260195::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960916383968::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960916682887::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960917017965::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960917138983::Arm base servo angle: 67.671997
+
+ROSMOD::DEBUG::1468960917263366::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960917384354::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960918017472::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960918138441::Arm base servo angle: 67.232002
+
+ROSMOD::DEBUG::1468960918259467::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960918383163::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960919017893::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960919139012::Arm base servo angle: 66.968002
+
+ROSMOD::DEBUG::1468960919259956::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960919383926::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960920017635::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960920921211::Arm base servo angle: 66.879997
+
+ROSMOD::DEBUG::1468960921042069::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960921163059::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960921165477::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960921286500::Arm base servo angle: 66.879997
+
+ROSMOD::DEBUG::1468960921407481::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960921528354::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960922020425::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960922141473::Arm base servo angle: 66.968002
+
+ROSMOD::DEBUG::1468960922262482::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960922383314::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960923020716::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960923141559::Arm base servo angle: 66.879997
+
+ROSMOD::DEBUG::1468960923262577::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960923383601::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960923951326::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960924024340::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960924147394::Arm base servo angle: 66.351997
+
+ROSMOD::DEBUG::1468960924268279::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960924389211::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960925019802::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960925141497::Arm base servo angle: 65.823997
+
+ROSMOD::DEBUG::1468960925263199::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960925384349::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960926017653::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960926140390::Arm base servo angle: 65.823997
+
+ROSMOD::DEBUG::1468960926262399::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960926383214::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960927019955::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960927140946::Arm base servo angle: 65.823997
+
+ROSMOD::DEBUG::1468960927261807::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960927382734::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960928020129::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960928141797::Arm base servo angle: 65.912003
+
+ROSMOD::DEBUG::1468960928262656::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960928383507::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960929020617::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960929141514::Arm base servo angle: 65.912003
+
+ROSMOD::DEBUG::1468960929262467::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960929383304::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960929676806::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960930019744::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960930140663::Arm base servo angle: 65.912003
+
+ROSMOD::DEBUG::1468960930261756::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960930382564::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960931019996::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960931141014::Arm base servo angle: 65.912003
+
+ROSMOD::DEBUG::1468960931261964::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960931382785::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960932020482::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960932141495::Arm base servo angle: 65.912003
+
+ROSMOD::DEBUG::1468960932262507::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960932383529::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960933020352::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960933141345::Arm base servo angle: 66.000000
+
+ROSMOD::DEBUG::1468960933262486::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960933383481::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960934020393::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960934141473::Arm base servo angle: 65.912003
+
+ROSMOD::DEBUG::1468960934262396::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960934383560::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960935020374::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960935141392::Arm base servo angle: 66.000000
+
+ROSMOD::DEBUG::1468960935262258::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960935383134::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960936020285::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960936141285::Arm base servo angle: 65.912003
+
+ROSMOD::DEBUG::1468960936262560::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960936383439::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960937020272::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960937141330::Arm base servo angle: 65.912003
+
+ROSMOD::DEBUG::1468960937262179::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960937383107::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960938020185::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960938141157::Arm base servo angle: 65.912003
+
+ROSMOD::DEBUG::1468960938262085::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960938383083::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960939020136::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960939141184::Arm base servo angle: 66.000000
+
+ROSMOD::DEBUG::1468960939263133::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960939385809::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960939401290::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960940020855::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960940141723::Arm base servo angle: 65.559998
+
+ROSMOD::DEBUG::1468960940262556::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960940383582::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960941020194::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960941141157::Arm base servo angle: 64.856003
+
+ROSMOD::DEBUG::1468960941262204::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960941383101::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960942020106::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960942141078::Arm base servo angle: 64.767998
+
+ROSMOD::DEBUG::1468960942262102::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960942382946::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960943020609::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960943144982::Arm base servo angle: 64.856003
+
+ROSMOD::DEBUG::1468960943265895::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960943386756::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960943388356::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960944020325::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960944141287::Arm base servo angle: 64.856003
+
+ROSMOD::DEBUG::1468960944262180::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960944383250::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960945020564::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960945141412::Arm base servo angle: 64.856003
+
+ROSMOD::DEBUG::1468960945262516::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960945383521::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960946020487::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960946142348::Arm base servo angle: 64.856003
+
+ROSMOD::DEBUG::1468960946263254::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960946384172::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960947020371::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960947141334::Arm base servo angle: 64.856003
+
+ROSMOD::DEBUG::1468960947262303::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960947383334::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960948016727::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960948140838::Arm base servo angle: 64.856003
+
+ROSMOD::DEBUG::1468960948261728::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960948382585::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960949020987::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960949142096::Arm base servo angle: 64.856003
+
+ROSMOD::DEBUG::1468960949263041::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960949384052::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960950016937::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960950137955::Arm base servo angle: 64.856003
+
+ROSMOD::DEBUG::1468960950258854::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960950383660::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960950385625::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960951016899::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960951143752::Arm base servo angle: 64.503998
+
+ROSMOD::DEBUG::1468960951264570::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960951385676::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960952017071::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960952138048::Arm base servo angle: 63.888000
+
+ROSMOD::DEBUG::1468960952259262::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960952380166::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960953016857::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960953137768::Arm base servo angle: 63.975998
+
+ROSMOD::DEBUG::1468960953258627::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960953379496::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960954017189::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960954138192::Arm base servo angle: 63.975998
+
+ROSMOD::DEBUG::1468960954259151::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960954379951::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960955017212::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960955916069::Arm base servo angle: 63.888000
+
+ROSMOD::DEBUG::1468960956037012::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960956158196::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960956734567::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960956855715::Arm base servo angle: 63.888000
+
+ROSMOD::DEBUG::1468960956976622::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960957097433::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960957099206::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960957105177::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960957227169::Arm base servo angle: 63.888000
+
+ROSMOD::DEBUG::1468960957351314::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960957475505::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960958017261::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960958138279::Arm base servo angle: 63.888000
+
+ROSMOD::DEBUG::1468960958259467::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960958380629::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960959017941::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960959138880::Arm base servo angle: 63.888000
+
+ROSMOD::DEBUG::1468960959259797::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960959380844::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960960017554::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960960138434::Arm base servo angle: 63.888000
+
+ROSMOD::DEBUG::1468960960259690::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960960380582::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960961017678::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960961138616::Arm base servo angle: 63.888000
+
+ROSMOD::DEBUG::1468960961260325::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960961381275::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960962017711::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960962138649::Arm base servo angle: 63.888000
+
+ROSMOD::DEBUG::1468960962259492::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960962380733::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960962682346::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960963016853::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960963137816::Arm base servo angle: 63.271999
+
+ROSMOD::DEBUG::1468960963258686::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960963379704::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960964017222::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960964138336::Arm base servo angle: 62.919998
+
+ROSMOD::DEBUG::1468960964259456::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960964380463::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960965017709::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960965138963::Arm base servo angle: 62.832001
+
+ROSMOD::DEBUG::1468960965259931::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960965380863::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960966017721::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960966138684::Arm base servo angle: 62.832001
+
+ROSMOD::DEBUG::1468960966274651::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960966395524::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960967017276::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960967138246::Arm base servo angle: 62.832001
+
+ROSMOD::DEBUG::1468960967259396::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960967380372::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960968017946::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960968139108::Arm base servo angle: 62.832001
+
+ROSMOD::DEBUG::1468960968260084::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960968381030::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960968785930::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960969022405::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960969143605::Arm base servo angle: 62.127998
+
+ROSMOD::DEBUG::1468960969264853::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960969385924::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960970017790::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960970138733::Arm base servo angle: 61.952000
+
+ROSMOD::DEBUG::1468960970260161::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960970381133::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960971017297::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960971138288::Arm base servo angle: 61.952000
+
+ROSMOD::DEBUG::1468960971259290::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960971380253::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960972016910::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960972137782::Arm base servo angle: 61.952000
+
+ROSMOD::DEBUG::1468960972258675::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960972379588::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960973017694::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960973138674::Arm base servo angle: 61.952000
+
+ROSMOD::DEBUG::1468960973259746::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960973380640::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960974017748::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960974138804::Arm base servo angle: 61.952000
+
+ROSMOD::DEBUG::1468960974259774::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960974380776::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960975017696::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960975138617::Arm base servo angle: 61.952000
+
+ROSMOD::DEBUG::1468960975259512::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960975380548::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960976017876::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960976139036::Arm base servo angle: 61.952000
+
+ROSMOD::DEBUG::1468960976260139::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960976381225::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960977018088::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960977139219::Arm base servo angle: 61.952000
+
+ROSMOD::DEBUG::1468960977260115::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960977381027::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960978016942::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960978137848::Arm base servo angle: 61.952000
+
+ROSMOD::DEBUG::1468960978258733::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960978379732::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960979017673::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960979138582::Arm base servo angle: 61.952000
+
+ROSMOD::DEBUG::1468960979259722::Gripper rotation servo angle: 193.720001
+
+ROSMOD::DEBUG::1468960979380643::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960980017956::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960980138884::Arm base servo angle: 61.863998
+
+ROSMOD::DEBUG::1468960980259855::Gripper rotation servo angle: 194.009995
+
+ROSMOD::DEBUG::1468960980380789::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960981016990::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960981138126::Arm base servo angle: 61.863998
+
+ROSMOD::DEBUG::1468960981259126::Gripper rotation servo angle: 194.009995
+
+ROSMOD::DEBUG::1468960981379980::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960982017701::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960982138678::Arm base servo angle: 61.863998
+
+ROSMOD::DEBUG::1468960982260941::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960982381904::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960982383659::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960983017273::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960983138850::Arm base servo angle: 61.863998
+
+ROSMOD::DEBUG::1468960983259798::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960983380817::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960984017734::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960984138630::Arm base servo angle: 61.863998
+
+ROSMOD::DEBUG::1468960984259636::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960984380564::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960985017081::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960985138040::Arm base servo angle: 61.952000
+
+ROSMOD::DEBUG::1468960985259229::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960985380087::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960986017310::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960986138358::Arm base servo angle: 61.952000
+
+ROSMOD::DEBUG::1468960986259560::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960986380982::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960987016959::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960987137858::Arm base servo angle: 61.952000
+
+ROSMOD::DEBUG::1468960987258830::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960987379747::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960988016949::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960988137857::Arm base servo angle: 61.952000
+
+ROSMOD::DEBUG::1468960988258861::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960988379872::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960988780086::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960989094583::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960989215591::Arm base servo angle: 61.952000
+
+ROSMOD::DEBUG::1468960989336758::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960989457942::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960989576729::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960990387268::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960990508742::Arm base servo angle: 61.952000
+
+ROSMOD::DEBUG::1468960990629631::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960990750619::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960991017981::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960991138924::Arm base servo angle: 61.952000
+
+ROSMOD::DEBUG::1468960991259911::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960991383277::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960992017805::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960992138763::Arm base servo angle: 61.952000
+
+ROSMOD::DEBUG::1468960992259992::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960992380883::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960993017027::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960993138335::Arm base servo angle: 61.952000
+
+ROSMOD::DEBUG::1468960993259366::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960993380367::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960994017925::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960994139125::Arm base servo angle: 61.952000
+
+ROSMOD::DEBUG::1468960994260037::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960994380898::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960995017711::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960995138646::Arm base servo angle: 61.952000
+
+ROSMOD::DEBUG::1468960995259659::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960995380786::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960995675525::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960996026471::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960996029711::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960996150816::Arm base servo angle: 61.952000
+
+ROSMOD::DEBUG::1468960996272143::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960996395431::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960996742778::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960997017675::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960997138758::Arm base servo angle: 61.952000
+
+ROSMOD::DEBUG::1468960997259531::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960997380519::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960997630302::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960998022831::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960998147840::Arm base servo angle: 61.952000
+
+ROSMOD::DEBUG::1468960998268766::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960998389588::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960998590016::001::In armRotationServer updating goals
+ROSMOD::CPN::1468960999017207::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468960999139205::Arm base servo angle: 61.952000
+
+ROSMOD::DEBUG::1468960999260164::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468960999381072::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468960999561307::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961000021143::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961000145711::Arm base servo angle: 61.952000
+
+ROSMOD::DEBUG::1468961000268178::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961000389117::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961000390851::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961001019115::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961001024789::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961001147699::Arm base servo angle: 61.952000
+
+ROSMOD::DEBUG::1468961001268591::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961001390163::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961002021501::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961002142736::Arm base servo angle: 61.952000
+
+ROSMOD::DEBUG::1468961002264176::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961002387284::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961002498317::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961002902958::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961003017930::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961003140114::Arm base servo angle: 61.952000
+
+ROSMOD::DEBUG::1468961003261106::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961003381971::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961003583102::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961004018508::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961004028121::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961004149393::Arm base servo angle: 61.952000
+
+ROSMOD::DEBUG::1468961004270283::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961004391255::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961005017046::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961005197253::Arm base servo angle: 61.952000
+
+ROSMOD::DEBUG::1468961005318009::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961005438685::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961006016893::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961006138203::Arm base servo angle: 61.952000
+
+ROSMOD::DEBUG::1468961006259204::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961006380175::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961006973803::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961007017210::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961007140695::Arm base servo angle: 61.952000
+
+ROSMOD::DEBUG::1468961007263625::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961007385062::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961008017242::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961008143845::Arm base servo angle: 61.952000
+
+ROSMOD::DEBUG::1468961008265974::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961008386866::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961008495388::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961008894826::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961009017664::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961009140757::Arm base servo angle: 61.952000
+
+ROSMOD::DEBUG::1468961009264966::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961009385909::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961009575475::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961009976058::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961010021900::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961010141718::Arm base servo angle: 61.952000
+
+ROSMOD::DEBUG::1468961010260776::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961010380039::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961010928481::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961011024775::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961011146930::Arm base servo angle: 61.952000
+
+ROSMOD::DEBUG::1468961011267859::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961011388967::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961011575655::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961011974952::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961012021054::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961012145058::Arm base servo angle: 61.952000
+
+ROSMOD::DEBUG::1468961012266000::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961012386914::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961012694921::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961013023457::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961013154377::Arm base servo angle: 61.952000
+
+ROSMOD::DEBUG::1468961013276168::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961013400897::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961013402539::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961014017003::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961014141378::Arm base servo angle: 61.952000
+
+ROSMOD::DEBUG::1468961014267097::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961014388159::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961014389903::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961014697196::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961015028792::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961015150153::Arm base servo angle: 61.952000
+
+ROSMOD::DEBUG::1468961015271472::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961015392563::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961015576140::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961015975581::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961016022745::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961016144329::Arm base servo angle: 61.952000
+
+ROSMOD::DEBUG::1468961016265365::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961016386310::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961016695739::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961017017209::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961017141567::Arm base servo angle: 61.952000
+
+ROSMOD::DEBUG::1468961017263782::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961017384868::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961017577066::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961018018542::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961018141483::Arm base servo angle: 61.952000
+
+ROSMOD::DEBUG::1468961018264204::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961018385170::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961018578620::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961019021987::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961019146004::Arm base servo angle: 61.952000
+
+ROSMOD::DEBUG::1468961019267084::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961019388046::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961019389806::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961020017106::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961020019956::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961020145307::Arm base servo angle: 61.952000
+
+ROSMOD::DEBUG::1468961020266157::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961020387060::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961021017785::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961021141225::Arm base servo angle: 61.952000
+
+ROSMOD::DEBUG::1468961021264588::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961021385523::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961021486303::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961021855771::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961022017347::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961022143182::Arm base servo angle: 61.952000
+
+ROSMOD::DEBUG::1468961022265261::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961022386238::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961022574791::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961022975361::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961023020887::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961023144570::Arm base servo angle: 61.952000
+
+ROSMOD::DEBUG::1468961023265704::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961023386698::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961023769850::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961024017896::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961024141656::Arm base servo angle: 61.952000
+
+ROSMOD::DEBUG::1468961024265041::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961024387804::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961024546532::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961024895627::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961025017914::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961025150627::Arm base servo angle: 61.952000
+
+ROSMOD::DEBUG::1468961025272010::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961025392926::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961025575457::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961025975526::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961026020902::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961026144897::Arm base servo angle: 65.384003
+
+ROSMOD::DEBUG::1468961026265821::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961026386807::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961026696181::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961027016907::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961027144855::Arm base servo angle: 98.736000
+
+ROSMOD::DEBUG::1468961027265747::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961027386883::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961027583900::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961028020091::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961028141407::Arm base servo angle: 168.080002
+
+ROSMOD::DEBUG::1468961028264571::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961028385490::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961028577807::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961029022480::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961029144914::Arm base servo angle: 201.167999
+
+ROSMOD::DEBUG::1468961029265887::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961029386752::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961029678259::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961030026469::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961030147530::Arm base servo angle: 202.664001
+
+ROSMOD::DEBUG::1468961030268422::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961030389396::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961031016794::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961031140234::Arm base servo angle: 197.735992
+
+ROSMOD::DEBUG::1468961031264806::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961031385675::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961032017299::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961032141089::Arm base servo angle: 199.847992
+
+ROSMOD::DEBUG::1468961032264222::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961032393314::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961032395185::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961032735878::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961033023487::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961033144827::Arm base servo angle: 204.160004
+
+ROSMOD::DEBUG::1468961033265823::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961033386757::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961033576101::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961033976061::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961034021469::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961034144513::Arm base servo angle: 216.744003
+
+ROSMOD::DEBUG::1468961034265764::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961034386728::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961035016991::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961035140749::Arm base servo angle: 215.248001
+
+ROSMOD::DEBUG::1468961035264064::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961035384896::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961036017596::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961036139905::Arm base servo angle: 215.072006
+
+ROSMOD::DEBUG::1468961036264730::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961036385579::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961037016834::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961037140711::Arm base servo angle: 214.983994
+
+ROSMOD::DEBUG::1468961037263338::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961037384691::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961038017773::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961038145576::Arm base servo angle: 214.983994
+
+ROSMOD::DEBUG::1468961038266439::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961038387438::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961038389262::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961039016918::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961039140764::Arm base servo angle: 214.015991
+
+ROSMOD::DEBUG::1468961039264476::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961039385529::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961040018077::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961040303490::Arm base servo angle: 212.783997
+
+ROSMOD::DEBUG::1468961040424329::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961040545281::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961041017294::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961041145111::Arm base servo angle: 212.871994
+
+ROSMOD::DEBUG::1468961041266646::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961041387785::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961041389551::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961042016844::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961042137855::Arm base servo angle: 212.167999
+
+ROSMOD::DEBUG::1468961042258842::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961042379799::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961043017769::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961043138689::Arm base servo angle: 210.936005
+
+ROSMOD::DEBUG::1468961043259828::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961043380827::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961043442470::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961044017752::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961044138896::Arm base servo angle: 210.143997
+
+ROSMOD::DEBUG::1468961044259827::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961044380799::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961045017578::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961045138920::Arm base servo angle: 209.000000
+
+ROSMOD::DEBUG::1468961045259825::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961045380866::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961046018001::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961046138986::Arm base servo angle: 209.000000
+
+ROSMOD::DEBUG::1468961046259920::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961046380845::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961047017300::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961047138287::Arm base servo angle: 209.000000
+
+ROSMOD::DEBUG::1468961047259357::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961047380321::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961048017352::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961048138736::Arm base servo angle: 209.000000
+
+ROSMOD::DEBUG::1468961048259723::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961048380600::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961049017816::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961049139174::Arm base servo angle: 209.000000
+
+ROSMOD::DEBUG::1468961049260118::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961049381502::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961049401935::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961050017575::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961050138590::Arm base servo angle: 208.559998
+
+ROSMOD::DEBUG::1468961050259771::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961050380773::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961051018069::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961051139864::Arm base servo angle: 207.768005
+
+ROSMOD::DEBUG::1468961051260794::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961051381783::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961052017569::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961052138565::Arm base servo angle: 207.768005
+
+ROSMOD::DEBUG::1468961052259713::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961052380608::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961053017751::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961053138888::Arm base servo angle: 207.856003
+
+ROSMOD::DEBUG::1468961053259754::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961053380759::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961054017966::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961054139019::Arm base servo angle: 207.856003
+
+ROSMOD::DEBUG::1468961054260897::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961054389457::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961054391100::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961055017928::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961055139009::Arm base servo angle: 206.975998
+
+ROSMOD::DEBUG::1468961055259949::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961055380912::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961056017908::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961056139246::Arm base servo angle: 205.919998
+
+ROSMOD::DEBUG::1468961056260145::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961056381086::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961057017718::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961057138712::Arm base servo angle: 205.919998
+
+ROSMOD::DEBUG::1468961057259682::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961057380602::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961058017645::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961058138815::Arm base servo angle: 205.832001
+
+ROSMOD::DEBUG::1468961058259860::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961058381142::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961059017464::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961059138403::Arm base servo angle: 205.832001
+
+ROSMOD::DEBUG::1468961059259383::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961059380349::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961060017589::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961060138693::Arm base servo angle: 205.832001
+
+ROSMOD::DEBUG::1468961060259678::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961060380583::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961061016902::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961061137923::Arm base servo angle: 205.832001
+
+ROSMOD::DEBUG::1468961061258930::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961061383779::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961061401007::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961061803658::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961062017359::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961062143239::Arm base servo angle: 205.304001
+
+ROSMOD::DEBUG::1468961062264238::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961062389172::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961063017601::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961063138636::Arm base servo angle: 204.688004
+
+ROSMOD::DEBUG::1468961063259511::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961063380486::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961064017742::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961064138740::Arm base servo angle: 204.776001
+
+ROSMOD::DEBUG::1468961064259856::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961064380781::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961065016901::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961065138327::Arm base servo angle: 204.863998
+
+ROSMOD::DEBUG::1468961065262665::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961065383738::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961066017782::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961066138865::Arm base servo angle: 204.863998
+
+ROSMOD::DEBUG::1468961066262376::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961066383324::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961067018104::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961067142623::Arm base servo angle: 204.863998
+
+ROSMOD::DEBUG::1468961067264172::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961067385076::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961068016979::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961068138067::Arm base servo angle: 204.863998
+
+ROSMOD::DEBUG::1468961068262349::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961068383236::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961068384962::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961069017866::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961069138832::Arm base servo angle: 204.863998
+
+ROSMOD::DEBUG::1468961069262840::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961069383698::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961070016716::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961070140040::Arm base servo angle: 204.863998
+
+ROSMOD::DEBUG::1468961070260997::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961070390990::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961070422143::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961070758874::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961071030367::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961071159729::Arm base servo angle: 204.863998
+
+ROSMOD::DEBUG::1468961071280688::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961071402280::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961072020329::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961072141458::Arm base servo angle: 204.863998
+
+ROSMOD::DEBUG::1468961072262432::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961072383309::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961073020347::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961073141418::Arm base servo angle: 204.951996
+
+ROSMOD::DEBUG::1468961073262770::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961073383627::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961074020241::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961074141225::Arm base servo angle: 204.863998
+
+ROSMOD::DEBUG::1468961074262865::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961074383696::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961075020111::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961075451129::Arm base servo angle: 204.951996
+
+ROSMOD::DEBUG::1468961075572257::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961075693397::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961076023484::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961076144502::Arm base servo angle: 204.951996
+
+ROSMOD::DEBUG::1468961076274535::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961076396247::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961076398139::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961077017071::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961077144654::Arm base servo angle: 204.951996
+
+ROSMOD::DEBUG::1468961077265734::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961077386872::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961078023904::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961078145174::Arm base servo angle: 204.863998
+
+ROSMOD::DEBUG::1468961078266336::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961078387434::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961078553977::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961079023472::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961079144490::Arm base servo angle: 204.863998
+
+ROSMOD::DEBUG::1468961079265422::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961079386478::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961080023770::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961080144617::Arm base servo angle: 204.951996
+
+ROSMOD::DEBUG::1468961080265642::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961080386679::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961081023511::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961081144594::Arm base servo angle: 204.863998
+
+ROSMOD::DEBUG::1468961081265413::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961081386309::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961082023853::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961082144792::Arm base servo angle: 204.863998
+
+ROSMOD::DEBUG::1468961082265698::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961082386478::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961083023693::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961083144586::Arm base servo angle: 204.863998
+
+ROSMOD::DEBUG::1468961083265417::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961083386366::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961084024178::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961084145201::Arm base servo angle: 204.863998
+
+ROSMOD::DEBUG::1468961084274403::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961084395377::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961084397121::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961085023713::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961085144964::Arm base servo angle: 204.423996
+
+ROSMOD::DEBUG::1468961085265971::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961085386811::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961086020950::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961086144044::Arm base servo angle: 203.807999
+
+ROSMOD::DEBUG::1468961086264947::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961086385813::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961087023927::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961087145063::Arm base servo angle: 203.807999
+
+ROSMOD::DEBUG::1468961087266045::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961087386878::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961088016882::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961088143801::Arm base servo angle: 203.895996
+
+ROSMOD::DEBUG::1468961088264652::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961088385630::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961089023664::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961089145052::Arm base servo angle: 203.895996
+
+ROSMOD::DEBUG::1468961089266015::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961089386879::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961090024016::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961090144932::Arm base servo angle: 203.895996
+
+ROSMOD::DEBUG::1468961090265895::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961090386725::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961091024073::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961091157927::Arm base servo angle: 203.895996
+
+ROSMOD::DEBUG::1468961091283282::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961091404288::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961091406174::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961092023856::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961092144776::Arm base servo angle: 203.895996
+
+ROSMOD::DEBUG::1468961092265730::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961092386515::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961093024315::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961093145406::Arm base servo angle: 203.895996
+
+ROSMOD::DEBUG::1468961093266497::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961093387506::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961094023992::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961094146029::Arm base servo angle: 203.895996
+
+ROSMOD::DEBUG::1468961094267113::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961094388226::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961095023617::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961095144752::Arm base servo angle: 203.895996
+
+ROSMOD::DEBUG::1468961095265750::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961095386755::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961096023355::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961096144220::Arm base servo angle: 203.895996
+
+ROSMOD::DEBUG::1468961096265132::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961096386100::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961096513748::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961097024063::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961097145262::Arm base servo angle: 203.544006
+
+ROSMOD::DEBUG::1468961097266200::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961097387077::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961098023379::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961098144486::Arm base servo angle: 202.927994
+
+ROSMOD::DEBUG::1468961098265544::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961098386335::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961099023517::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961099144495::Arm base servo angle: 202.927994
+
+ROSMOD::DEBUG::1468961099265392::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961099386328::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961100023760::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961100145393::Arm base servo angle: 202.839996
+
+ROSMOD::DEBUG::1468961100266306::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961100387176::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961101023725::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961101144650::Arm base servo angle: 202.839996
+
+ROSMOD::DEBUG::1468961101274260::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961101403453::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961101405273::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961101722091::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961102025164::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961102146153::Arm base servo angle: 202.839996
+
+ROSMOD::DEBUG::1468961102267103::Gripper rotation servo angle: 194.589996
+
+ROSMOD::DEBUG::1468961102388043::Gripper position servo angle: 199.229996
+
+ROSMOD::CPN::1468961102595031::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961102994690::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961103025153::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961103146201::Arm base servo angle: 199.847992
+
+ROSMOD::DEBUG::1468961103267317::Gripper rotation servo angle: 185.599991
+
+ROSMOD::DEBUG::1468961103388240::Gripper position servo angle: 200.970001
+
+ROSMOD::CPN::1468961103961618::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961104023724::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961104145145::Arm base servo angle: 166.056000
+
+ROSMOD::DEBUG::1468961104266066::Gripper rotation servo angle: 168.779999
+
+ROSMOD::DEBUG::1468961104387008::Gripper position servo angle: 248.819992
+
+ROSMOD::CPN::1468961105018046::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961105138944::Arm base servo angle: 98.031998
+
+ROSMOD::DEBUG::1468961105259702::Gripper rotation servo angle: 168.779999
+
+ROSMOD::DEBUG::1468961105382209::Gripper position servo angle: 248.819992
+
+ROSMOD::CPN::1468961106007163::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961106018151::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961106140723::Arm base servo angle: 49.632000
+
+ROSMOD::DEBUG::1468961106261798::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961106382782::Gripper position servo angle: 248.819992
+
+ROSMOD::CPN::1468961106725724::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961107029005::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961107150389::Arm base servo angle: 49.456001
+
+ROSMOD::DEBUG::1468961107271796::Gripper rotation servo angle: 168.779999
+
+ROSMOD::DEBUG::1468961107396164::Gripper position servo angle: 248.819992
+
+ROSMOD::CPN::1468961107557619::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961107947462::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961108029652::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961108155229::Arm base servo angle: 52.007999
+
+ROSMOD::DEBUG::1468961108276726::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961108397554::Gripper position servo angle: 248.819992
+
+ROSMOD::CPN::1468961108689983::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961109018082::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961109139206::Arm base servo angle: 51.216000
+
+ROSMOD::DEBUG::1468961109260095::Gripper rotation servo angle: 168.779999
+
+ROSMOD::DEBUG::1468961109380944::Gripper position servo angle: 248.819992
+
+ROSMOD::CPN::1468961109738494::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961110132732::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961110256200::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961110377484::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961110498377::Gripper position servo angle: 248.819992
+
+ROSMOD::CPN::1468961110794054::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961111017251::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961111140711::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961111261804::Gripper rotation servo angle: 168.779999
+
+ROSMOD::DEBUG::1468961111382729::Gripper position servo angle: 248.819992
+
+ROSMOD::CPN::1468961111585042::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961111986070::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961112029997::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961112151303::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961112272796::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961112502667::Gripper position servo angle: 248.819992
+
+ROSMOD::CPN::1468961113017280::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961113139677::Arm base servo angle: 50.776001
+
+ROSMOD::DEBUG::1468961113262537::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961113383465::Gripper position servo angle: 248.529999
+
+ROSMOD::CPN::1468961113488489::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961113840946::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961114017241::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961114143249::Arm base servo angle: 50.776001
+
+ROSMOD::DEBUG::1468961114264427::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961114385305::Gripper position servo angle: 248.819992
+
+ROSMOD::CPN::1468961114573467::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961115019715::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961115153205::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961115274173::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961115398196::Gripper position servo angle: 248.819992
+
+ROSMOD::CPN::1468961115399856::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961115875336::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961116016977::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961116143800::Arm base servo angle: 50.776001
+
+ROSMOD::DEBUG::1468961116264800::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961116385643::Gripper position servo angle: 248.819992
+
+ROSMOD::CPN::1468961116700401::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961117021880::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961117143163::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961117264353::Gripper rotation servo angle: 168.779999
+
+ROSMOD::DEBUG::1468961117385336::Gripper position servo angle: 248.819992
+
+ROSMOD::CPN::1468961117909214::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961118021237::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961118143587::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961118264604::Gripper rotation servo angle: 168.779999
+
+ROSMOD::DEBUG::1468961118385481::Gripper position servo angle: 248.819992
+
+ROSMOD::CPN::1468961118693933::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961119026440::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961119147359::Arm base servo angle: 50.952000
+
+ROSMOD::DEBUG::1468961119268373::Gripper rotation servo angle: 168.779999
+
+ROSMOD::DEBUG::1468961119389247::Gripper position servo angle: 248.819992
+
+ROSMOD::CPN::1468961119533281::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961119933777::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961120019104::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961120143991::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961120265223::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961120386190::Gripper position servo angle: 248.819992
+
+ROSMOD::CPN::1468961120663141::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961121017718::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961121142592::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961121263574::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961121384530::Gripper position servo angle: 248.819992
+
+ROSMOD::CPN::1468961121636352::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961122022724::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961122144510::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961122265711::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961122386719::Gripper position servo angle: 248.819992
+
+ROSMOD::CPN::1468961122767622::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961123084587::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961123206697::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961123328044::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961123448865::Gripper position servo angle: 248.819992
+
+ROSMOD::CPN::1468961123450724::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961123854484::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961124026200::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961124147360::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961124268407::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961124389440::Gripper position servo angle: 248.819992
+
+ROSMOD::CPN::1468961124573483::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961124969444::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961125019736::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961125143130::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961125264247::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961125385331::Gripper position servo angle: 248.819992
+
+ROSMOD::CPN::1468961125891009::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961126020883::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961126148705::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961126270107::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961126391422::Gripper position servo angle: 248.819992
+
+ROSMOD::CPN::1468961126695923::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961127021136::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961127142555::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961127263618::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961127384728::Gripper position servo angle: 248.819992
+
+ROSMOD::CPN::1468961127911119::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961128021810::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961128143632::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961128264542::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961128385568::Gripper position servo angle: 248.819992
+
+ROSMOD::CPN::1468961128649621::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961129029756::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961129150876::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961129271901::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961129393415::Gripper position servo angle: 248.819992
+
+ROSMOD::CPN::1468961129499588::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961129893514::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961130026605::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961130153433::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961130274264::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961130396646::Gripper position servo angle: 248.819992
+
+ROSMOD::CPN::1468961130574292::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961131021165::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961131143519::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961131264537::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961131385404::Gripper position servo angle: 248.819992
+
+ROSMOD::CPN::1468961131387208::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961132018063::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961132142100::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961132263111::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961132384235::Gripper position servo angle: 248.819992
+
+ROSMOD::CPN::1468961132492959::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961132892895::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961133017756::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961133142485::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961133272918::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961133394075::Gripper position servo angle: 248.819992
+
+ROSMOD::CPN::1468961133572621::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961133973191::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961134019016::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961134141457::Arm base servo angle: 50.952000
+
+ROSMOD::DEBUG::1468961134262833::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961134383739::Gripper position servo angle: 248.819992
+
+ROSMOD::CPN::1468961135016958::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961135142670::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961135264208::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961135385431::Gripper position servo angle: 248.819992
+
+ROSMOD::CPN::1468961135387221::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961135727625::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961136028208::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961136149465::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961136270333::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961136391321::Gripper position servo angle: 248.819992
+
+ROSMOD::CPN::1468961136574248::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961136974151::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961137020252::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961137143267::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961137264342::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961137385318::Gripper position servo angle: 248.819992
+
+ROSMOD::CPN::1468961137693525::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961138024977::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961138152384::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961138273430::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961138397859::Gripper position servo angle: 247.369995
+
+ROSMOD::CPN::1468961138399481::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961139017353::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961139143104::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961139264234::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961139385134::Gripper position servo angle: 217.209991
+
+ROSMOD::CPN::1468961139386898::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961140017186::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961140142298::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961140263444::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961140384686::Gripper position servo angle: 217.209991
+
+ROSMOD::CPN::1468961140386296::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961141006618::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961141017957::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961141139058::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961141260153::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961141381278::Gripper position servo angle: 207.639999
+
+ROSMOD::CPN::1468961142018130::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961142139496::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961142260576::Gripper rotation servo angle: 168.779999
+
+ROSMOD::DEBUG::1468961142381437::Gripper position servo angle: 205.899994
+
+ROSMOD::CPN::1468961142668791::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961143021892::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961143146150::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961143267127::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961143388065::Gripper position servo angle: 205.899994
+
+ROSMOD::CPN::1468961143389821::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961143777384::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961144025502::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961144146850::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961144267721::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961144388659::Gripper position servo angle: 205.899994
+
+ROSMOD::CPN::1468961144658947::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961145466831::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961145588562::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961145709525::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961145830790::Gripper position servo angle: 205.899994
+
+ROSMOD::CPN::1468961146017695::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961146143061::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961146267218::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961146388355::Gripper position servo angle: 200.679993
+
+ROSMOD::CPN::1468961146900480::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961147017762::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961147141499::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961147265387::Gripper rotation servo angle: 168.199997
+
+ROSMOD::DEBUG::1468961147386613::Gripper position servo angle: 200.679993
+
+ROSMOD::CPN::1468961147656004::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961148017850::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961148142605::Arm base servo angle: 50.776001
+
+ROSMOD::DEBUG::1468961148265725::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961148387081::Gripper position servo angle: 200.389999
+
+ROSMOD::CPN::1468961148536663::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961148937613::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961149022683::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961149147317::Arm base servo angle: 50.776001
+
+ROSMOD::DEBUG::1468961149268368::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961149389215::Gripper position servo angle: 200.389999
+
+ROSMOD::CPN::1468961149577331::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961150017053::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961150142020::Arm base servo angle: 50.776001
+
+ROSMOD::DEBUG::1468961150266107::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961150387051::Gripper position servo angle: 200.389999
+
+ROSMOD::CPN::1468961150388799::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961151016833::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961151142789::Arm base servo angle: 50.776001
+
+ROSMOD::DEBUG::1468961151265333::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961151386385::Gripper position servo angle: 200.389999
+
+ROSMOD::CPN::1468961151388182::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961151776596::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961152023818::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961152147841::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961152268848::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961152389742::Gripper position servo angle: 200.389999
+
+ROSMOD::CPN::1468961152497228::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961152893981::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961153018433::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961153142279::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961153265320::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961153386764::Gripper position servo angle: 200.389999
+
+ROSMOD::CPN::1468961153660669::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961154017621::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961154142481::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961154265011::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961154386221::Gripper position servo angle: 200.389999
+
+ROSMOD::CPN::1468961154635941::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961155020061::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961155146724::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961155267696::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961155388622::Gripper position servo angle: 200.389999
+
+ROSMOD::CPN::1468961155657474::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961156017730::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961156141584::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961156266523::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961156387364::Gripper position servo angle: 200.389999
+
+ROSMOD::CPN::1468961156541874::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961156899259::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961157017911::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961157145689::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961157266861::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961157387818::Gripper position servo angle: 200.389999
+
+ROSMOD::CPN::1468961157618318::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961158017627::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961158142487::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961158266211::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961158387121::Gripper position servo angle: 200.389999
+
+ROSMOD::CPN::1468961158579033::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961159018277::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961159142139::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961159266043::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961159386917::Gripper position servo angle: 200.389999
+
+ROSMOD::CPN::1468961159658199::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961160017570::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961160138439::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961160259141::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961160384507::Gripper position servo angle: 200.389999
+
+ROSMOD::CPN::1468961160592966::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961161026888::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961161030145::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961161152761::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961161275953::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961161397017::Gripper position servo angle: 200.389999
+
+ROSMOD::CPN::1468961161738658::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961162021004::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961162142276::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961162263209::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961162384127::Gripper position servo angle: 200.389999
+
+ROSMOD::CPN::1468961162781885::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961163017663::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961163139057::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961163260074::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961163381397::Gripper position servo angle: 200.389999
+
+ROSMOD::CPN::1468961163537691::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961163882466::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961164017989::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961164145428::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961164266889::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961164387947::Gripper position servo angle: 200.389999
+
+ROSMOD::CPN::1468961164585649::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961164964359::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961165018064::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961165139542::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961165260462::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961165381656::Gripper position servo angle: 200.389999
+
+ROSMOD::CPN::1468961165691867::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961166016915::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961166138384::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961166259337::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961166380252::Gripper position servo angle: 200.389999
+
+ROSMOD::CPN::1468961166628023::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961167018029::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961167139012::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961167259917::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961167380815::Gripper position servo angle: 200.389999
+
+ROSMOD::CPN::1468961167670111::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961168019833::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961168140773::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961168261762::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961168382556::Gripper position servo angle: 200.389999
+
+ROSMOD::CPN::1468961168549729::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961168930194::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961169018015::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961169143948::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961169265155::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961169386355::Gripper position servo angle: 200.389999
+
+ROSMOD::CPN::1468961169572767::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961170016840::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961170138127::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961170259046::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961170379842::Gripper position servo angle: 200.389999
+
+ROSMOD::CPN::1468961170798947::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961171017142::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961171138249::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961171259167::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961171380020::Gripper position servo angle: 200.389999
+
+ROSMOD::CPN::1468961171563905::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961171946231::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961172029588::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961172153693::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961172276067::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961172397054::Gripper position servo angle: 200.389999
+
+ROSMOD::CPN::1468961172585556::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961172964921::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961173017776::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961173139499::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961173260506::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961173381571::Gripper position servo angle: 200.389999
+
+ROSMOD::CPN::1468961174017100::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961174139910::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961174261251::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961174382571::Gripper position servo angle: 200.389999
+
+ROSMOD::CPN::1468961174384332::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961175017316::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961175138300::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961175262267::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961175383337::Gripper position servo angle: 200.389999
+
+ROSMOD::CPN::1468961175385301::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961175787433::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961176017748::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961176141882::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961176262872::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961176383720::Gripper position servo angle: 200.389999
+
+ROSMOD::CPN::1468961176582111::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961177025347::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961177147120::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961177268044::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961177389366::Gripper position servo angle: 200.389999
+
+ROSMOD::CPN::1468961177391038::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961178016819::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961178137725::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961178258664::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961178379565::Gripper position servo angle: 200.389999
+
+ROSMOD::CPN::1468961178524627::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961178906890::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961179020803::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961179140319::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961179259402::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961179378907::Gripper position servo angle: 200.389999
+
+ROSMOD::CPN::1468961179552337::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961180042648::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961180163943::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961180284873::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961180405935::Gripper position servo angle: 200.389999
+
+ROSMOD::CPN::1468961180690575::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961181017239::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961181138695::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961181260078::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961181380969::Gripper position servo angle: 200.389999
+
+ROSMOD::CPN::1468961181549774::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961181901849::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961182017608::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961182144214::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961182265386::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961182386333::Gripper position servo angle: 200.389999
+
+ROSMOD::CPN::1468961182565999::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961183273090::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961183401140::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961183521956::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961183643013::Gripper position servo angle: 200.389999
+
+ROSMOD::CPN::1468961183972720::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961184018004::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961184139267::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961184260204::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961184381041::Gripper position servo angle: 200.389999
+
+ROSMOD::CPN::1468961185017493::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961185138999::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961185260131::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961185381007::Gripper position servo angle: 200.389999
+
+ROSMOD::CPN::1468961185479053::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961185822206::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961186017580::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961186145419::Arm base servo angle: 50.863998
+
+ROSMOD::DEBUG::1468961186273091::Gripper rotation servo angle: 168.489990
+
+ROSMOD::DEBUG::1468961186394129::Gripper position servo angle: 200.389999
+
+ROSMOD::CPN::1468961186579463::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961186973929::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961187024760::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961187154025::Arm base servo angle: 54.208000
+
+ROSMOD::DEBUG::1468961187275102::Gripper rotation servo angle: 160.080002
+
+ROSMOD::DEBUG::1468961187396037::Gripper position servo angle: 200.389999
+
+ROSMOD::CPN::1468961187740945::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961188017332::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961188138715::Arm base servo angle: 84.304001
+
+ROSMOD::DEBUG::1468961188259798::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961188380648::Gripper position servo angle: 200.389999
+
+ROSMOD::CPN::1468961188536407::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961188858542::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961189017935::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961189138962::Arm base servo angle: 152.063995
+
+ROSMOD::DEBUG::1468961189262390::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961189383374::Gripper position servo angle: 200.389999
+
+ROSMOD::CPN::1468961189569732::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961190017704::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961190138670::Arm base servo angle: 196.240005
+
+ROSMOD::DEBUG::1468961190259402::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961190383198::Gripper position servo angle: 200.389999
+
+ROSMOD::CPN::1468961190595473::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961190999125::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961191020951::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961191145107::Arm base servo angle: 196.151993
+
+ROSMOD::DEBUG::1468961191266668::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961191387565::Gripper position servo angle: 200.389999
+
+ROSMOD::CPN::1468961192022124::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961192145891::Arm base servo angle: 193.863998
+
+ROSMOD::DEBUG::1468961192266959::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961192387752::Gripper position servo angle: 200.389999
+
+ROSMOD::CPN::1468961192512237::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961192916555::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961193020961::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961193145735::Arm base servo angle: 193.248001
+
+ROSMOD::DEBUG::1468961193270436::Gripper rotation servo angle: 105.559998
+
+ROSMOD::DEBUG::1468961193391381::Gripper position servo angle: 200.389999
+
+ROSMOD::CPN::1468961193595156::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961193976892::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961194024949::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961194146142::Arm base servo angle: 194.391998
+
+ROSMOD::DEBUG::1468961194267155::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961194388172::Gripper position servo angle: 200.389999
+
+ROSMOD::CPN::1468961195020986::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961195147829::Arm base servo angle: 195.272003
+
+ROSMOD::DEBUG::1468961195271048::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961195392205::Gripper position servo angle: 202.129990
+
+ROSMOD::CPN::1468961195393957::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961195695978::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961196022592::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961196144984::Arm base servo angle: 195.447998
+
+ROSMOD::DEBUG::1468961196265972::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961196387392::Gripper position servo angle: 248.819992
+
+ROSMOD::CPN::1468961196596567::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961196996304::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961197022312::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961197145981::Arm base servo angle: 195.447998
+
+ROSMOD::DEBUG::1468961197267005::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961197387931::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961197756270::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961198021702::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961198145597::Arm base servo angle: 195.272003
+
+ROSMOD::DEBUG::1468961198266954::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961198387802::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961198719193::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961199021229::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961199146258::Arm base servo angle: 195.007996
+
+ROSMOD::DEBUG::1468961199267329::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961199388441::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961199719469::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961200022285::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961200146473::Arm base servo angle: 194.919998
+
+ROSMOD::DEBUG::1468961200267549::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961200388377::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961200390107::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961200796149::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961201025663::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961201147398::Arm base servo angle: 194.919998
+
+ROSMOD::DEBUG::1468961201268288::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961201389491::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961201675884::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961202021004::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961202145388::Arm base servo angle: 194.919998
+
+ROSMOD::DEBUG::1468961202266626::Gripper rotation servo angle: 105.559998
+
+ROSMOD::DEBUG::1468961202387539::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961202743582::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961203021223::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961203150084::Arm base servo angle: 194.919998
+
+ROSMOD::DEBUG::1468961203271140::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961203392581::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961203543106::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961203915971::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961204021414::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961204146221::Arm base servo angle: 194.919998
+
+ROSMOD::DEBUG::1468961204267631::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961204388443::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961204597015::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961205017800::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961205138653::Arm base servo angle: 194.919998
+
+ROSMOD::DEBUG::1468961205259678::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961205381164::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961205570310::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961206018037::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961206139094::Arm base servo angle: 194.919998
+
+ROSMOD::DEBUG::1468961206260151::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961206381204::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961206382919::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961206979752::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961207021625::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961207145178::Arm base servo angle: 194.832001
+
+ROSMOD::DEBUG::1468961207269405::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961207390332::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961207755967::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961208020863::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961208145690::Arm base servo angle: 194.832001
+
+ROSMOD::DEBUG::1468961208266579::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961208387446::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961208538679::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961208916563::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961209020876::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961209145880::Arm base servo angle: 194.832001
+
+ROSMOD::DEBUG::1468961209267075::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961209388025::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961209918196::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961210024914::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961210146045::Arm base servo angle: 194.832001
+
+ROSMOD::DEBUG::1468961210267586::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961210388612::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961210658820::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961211021783::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961211146026::Arm base servo angle: 194.919998
+
+ROSMOD::DEBUG::1468961211267149::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961211388266::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961211555423::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961211956203::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961212029442::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961212150716::Arm base servo angle: 189.112000
+
+ROSMOD::DEBUG::1468961212271767::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961212392604::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961212716201::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961213020887::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961213144868::Arm base servo angle: 156.727997
+
+ROSMOD::DEBUG::1468961213266030::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961213386942::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961213696225::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961214024416::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961214145565::Arm base servo angle: 111.320000
+
+ROSMOD::DEBUG::1468961214266572::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961214387483::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961214636793::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961215021032::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961215145569::Arm base servo angle: 112.024002
+
+ROSMOD::DEBUG::1468961215266584::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961215387486::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961215693145::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961216021511::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961216145023::Arm base servo angle: 112.552002
+
+ROSMOD::DEBUG::1468961216266206::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961216387276::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961216801422::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961217027067::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961217148163::Arm base servo angle: 113.783997
+
+ROSMOD::DEBUG::1468961217269131::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961217390145::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961217547332::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961218017717::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961218635042::Arm base servo angle: 113.344002
+
+ROSMOD::DEBUG::1468961218757351::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961218878385::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961218880188::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961219019144::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961219140584::Arm base servo angle: 113.255997
+
+ROSMOD::DEBUG::1468961219261729::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961219382715::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961219595822::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961220017267::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961220138218::Arm base servo angle: 113.080002
+
+ROSMOD::DEBUG::1468961220259147::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961220381383::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961220988666::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961221016939::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961221140319::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961221261792::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961221383248::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961221746322::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961222017188::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961222141297::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961222262453::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961222383283::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961222571671::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961222969825::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961223021042::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961223142307::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961223263307::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961223384253::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961224017823::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961224144613::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961224265620::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961224386486::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961224388252::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961224712385::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961225026545::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961225147761::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961225268823::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961225389785::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961225630027::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961226026236::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961226147832::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961226268960::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961226392779::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961226394514::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961227022643::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961227143796::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961227264805::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961227385647::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961227387402::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961228018103::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961228139256::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961228260152::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961228381045::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961228508243::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961228922742::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961229017976::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961229139604::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961229260670::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961229381524::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961229589039::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961229988778::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961230033590::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961230157591::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961230278532::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961230399582::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961231006189::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961231020382::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961231141329::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961231262456::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961231383589::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961232032713::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961232160548::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961232281448::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961232402708::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961232404520::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961232789305::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961233031440::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961233154622::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961233277283::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961233398332::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961233510328::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961233907534::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961234018270::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961234141442::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961234262989::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961234383897::Gripper position servo angle: 249.689987
+
+ROSMOD::CPN::1468961234670130::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961235017817::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961235138860::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961235259787::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961235380841::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961235632805::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961236025479::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961236146616::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961236267730::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961236388647::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961236682262::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961237025487::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961237146930::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961237268907::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961237393126::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961237394846::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961237788104::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961238026805::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961238148174::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961238269232::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961238393409::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961238548100::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961238947968::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961239031923::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961239154541::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961239277716::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961239398529::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961239763224::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961240017650::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961240139245::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961240263569::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961240384750::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961240534456::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961240833108::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961241016943::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961241142889::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961241264187::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961241385054::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961241584012::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961242017992::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961242142873::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961242264037::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961242384914::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961242921174::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961243017975::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961243139616::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961243260509::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961243381369::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961243704782::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961244028410::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961244153334::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961244278213::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961244399004::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961244512623::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961244902569::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961245023985::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961245145196::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961245266137::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961245387050::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961245936642::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961246017873::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961246139252::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961246260160::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961246381036::Gripper position servo angle: 248.819992
+
+ROSMOD::CPN::1468961246744581::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961247019881::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961247141289::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961247262779::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961247383824::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961247578631::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961247979863::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961248024803::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961248145863::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961248266961::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961248388224::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961248945295::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961249021025::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961249146076::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961249267563::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961249388685::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961249569419::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961250111992::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961250233864::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961250358505::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961250479383::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961250591209::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961251017044::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961251139250::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961251260282::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961251381382::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961251383244::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961252016290::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961252022822::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961252143984::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961252264947::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961252386012::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961252969527::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961253022404::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961253144011::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961253863436::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961253984454::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961254017721::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961254144972::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961254266015::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961254386814::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961255017903::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961255140097::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961255261770::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961255386789::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961255412925::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961255739102::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961256019676::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961256148210::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961256269254::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961256390195::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961256572430::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961256955266::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961257017335::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961257139490::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961257263866::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961257384735::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961257715550::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961258022732::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961258145220::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961258266160::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961258387032::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961258829206::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961259017809::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961259140173::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961259263939::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961259384807::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961259689088::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961260017252::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961260139448::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961260263763::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961260384727::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961260529926::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961260915534::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961261017108::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961261151887::Arm base servo angle: 113.167999
+
+ROSMOD::DEBUG::1468961261273085::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961261394112::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961261775143::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961262018005::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961262144178::Arm base servo angle: 113.167999
+
+ROSMOD::DEBUG::1468961262266055::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961262387002::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961262567231::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961263020318::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961263142370::Arm base servo angle: 112.816002
+
+ROSMOD::DEBUG::1468961263264156::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961263385651::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961263481477::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961263819954::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961264018442::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961264144747::Arm base servo angle: 112.375999
+
+ROSMOD::DEBUG::1468961264266157::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961264387114::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961264767621::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961265022556::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961265143732::Arm base servo angle: 112.375999
+
+ROSMOD::DEBUG::1468961265264903::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961265385706::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961265540950::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961265843403::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961266021802::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961266145002::Arm base servo angle: 113.255997
+
+ROSMOD::DEBUG::1468961266267790::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961266388671::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961266588017::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961266992108::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961267037285::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961267161331::Arm base servo angle: 113.255997
+
+ROSMOD::DEBUG::1468961267282593::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961267403579::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961267713501::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961268024914::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961268146243::Arm base servo angle: 113.167999
+
+ROSMOD::DEBUG::1468961268267275::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961268388338::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961268820566::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961269023078::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961269144248::Arm base servo angle: 113.080002
+
+ROSMOD::DEBUG::1468961269265228::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961269386142::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961269713671::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961270020727::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961270141594::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961270262637::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961270383733::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961270563744::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961270941118::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961271029892::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961271153239::Arm base servo angle: 113.167999
+
+ROSMOD::DEBUG::1468961271274287::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961271395211::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961271674620::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961272021460::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961272142593::Arm base servo angle: 113.167999
+
+ROSMOD::DEBUG::1468961272263647::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961272384880::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961272814490::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961273023117::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961273144111::Arm base servo angle: 112.816002
+
+ROSMOD::DEBUG::1468961273265128::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961273386158::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961273644936::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961274029531::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961274151917::Arm base servo angle: 113.080002
+
+ROSMOD::DEBUG::1468961274272811::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961274393646::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961274552511::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961274951400::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961275031729::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961275153462::Arm base servo angle: 112.903999
+
+ROSMOD::DEBUG::1468961275274368::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961275395202::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961275591022::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961276020770::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961276142549::Arm base servo angle: 112.463997
+
+ROSMOD::DEBUG::1468961276263423::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961276384384::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961276905817::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961277022176::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961277143236::Arm base servo angle: 112.375999
+
+ROSMOD::DEBUG::1468961277264291::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961277385160::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961277713733::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961278030211::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961278151865::Arm base servo angle: 113.519997
+
+ROSMOD::DEBUG::1468961278272914::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961278393859::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961278553114::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961278948008::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961279027952::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961279151552::Arm base servo angle: 113.695999
+
+ROSMOD::DEBUG::1468961279272398::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961279393451::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961280020646::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961280143964::Arm base servo angle: 113.167999
+
+ROSMOD::DEBUG::1468961280265031::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961280385931::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961280387730::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961280723481::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961281030257::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961281152320::Arm base servo angle: 112.375999
+
+ROSMOD::DEBUG::1468961281273329::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961281394193::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961281586144::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961281982861::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961282026201::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961282151040::Arm base servo angle: 112.639999
+
+ROSMOD::DEBUG::1468961282272400::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961282393366::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961282702042::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961283020480::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961283142075::Arm base servo angle: 113.080002
+
+ROSMOD::DEBUG::1468961283263059::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961283391138::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961283767472::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961284032078::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961284153167::Arm base servo angle: 113.080002
+
+ROSMOD::DEBUG::1468961284274048::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961284394946::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961284590800::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961285129446::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961285250567::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961285371655::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961285492574::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961286020361::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961286141271::Arm base servo angle: 112.816002
+
+ROSMOD::DEBUG::1468961286262220::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961286383074::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961286906996::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961287021843::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961287143839::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961287268017::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961287388947::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961288021173::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961288145790::Arm base servo angle: 113.080002
+
+ROSMOD::DEBUG::1468961288268596::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961288389509::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961288846283::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961289020133::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961289142000::Arm base servo angle: 113.080002
+
+ROSMOD::DEBUG::1468961289264426::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961289385474::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961289590860::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961289991331::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961290030841::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961290155655::Arm base servo angle: 113.080002
+
+ROSMOD::DEBUG::1468961290279968::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961290401195::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961290762894::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961291020477::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961291141526::Arm base servo angle: 113.080002
+
+ROSMOD::DEBUG::1468961291262653::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961291383639::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961291699552::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961292027138::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961292148606::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961292269577::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961292390824::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961292836364::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961293028992::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961293150000::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961293271065::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961293395457::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961293511328::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961293910690::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961294021121::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961294142704::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961294263970::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961294384889::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961294591911::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961294991090::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961295030865::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961295151856::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961295276062::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961295399926::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961296023779::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961296146027::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961296266985::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961296387872::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961296389678::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961296790255::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961297018795::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961297142594::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961297263697::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961297384558::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961297590562::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961297991124::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961298018180::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961298140185::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961298261227::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961298382103::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961299020416::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961299141597::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961299265961::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961299387449::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961299389216::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961299693853::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961300032821::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961300156776::Arm base servo angle: 113.080002
+
+ROSMOD::DEBUG::1468961300280320::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961300401432::Gripper position servo angle: 249.689987
+
+ROSMOD::CPN::1468961300589406::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961301023552::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961301144625::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961301265601::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961301386437::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961301388188::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961301789246::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961302023127::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961302148362::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961302269950::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961302390958::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961302700821::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961303029519::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961303150750::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961303271931::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961303392913::Gripper position servo angle: 248.819992
+
+ROSMOD::CPN::1468961303908264::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961304024366::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961304145845::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961304267176::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961304388402::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961304641907::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961305032051::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961305153083::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961305277936::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961305402249::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961305553067::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961305952344::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961306018936::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961306141956::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961306263468::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961306384351::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961306712479::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961307031511::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961307152408::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961307273489::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961307398167::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961307871031::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961308030137::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961308152727::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961308273477::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961308397381::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961308593859::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961308992535::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961309036348::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961309159123::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961309282172::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961309403278::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961309713001::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961310022981::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961310144448::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961310265327::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961310386475::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961310634033::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961311021048::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961311142643::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961311264072::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961311384921::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961311535899::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961311855615::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961312025051::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961312146490::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961312267511::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961312388708::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961312592493::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961312992509::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961313019630::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961313142895::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961313264038::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961313384867::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961313752383::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961314022145::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961314144103::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961314265087::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961314386233::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961314694665::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961315019812::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961315142213::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961315263166::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961315384113::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961315771927::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961316021666::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961316143224::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961316264104::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961316384952::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961316486985::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961316872839::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961317021743::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961317143348::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961317264198::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961317385105::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961317592757::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961317993097::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961318019468::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961318142627::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961318263615::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961318384395::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961319017484::001::In servoTimer setting GPIO
+ROSMOD::DEBUG::1468961319142917::Arm base servo angle: 112.991997
+
+ROSMOD::DEBUG::1468961319265650::Gripper rotation servo angle: 105.849998
+
+ROSMOD::DEBUG::1468961319387011::Gripper position servo angle: 249.109985
+
+ROSMOD::CPN::1468961319750617::001::In armRotationServer updating goals
+ROSMOD::CPN::1468961320016982::001::In servoTimer setting GPIO
